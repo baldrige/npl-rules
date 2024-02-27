@@ -1,0 +1,355 @@
+# Contracts
+
+## Arbitration {#sec-arb-contracts}
+
+A player becomes eligible for arbitration when they qualify for super-two or earn at least three years of service time and no less than six years of service time.
+
+These players are eligible to be non-tendered, absolving the team of any salary, or released within appropriate termination day windows following the non-tender deadline.
+
+Any extensions signed by the player results in guaranteed salary.
+
+### Service Time
+
+Any player who receives votes for AL or NL MVP or Cy Young, makes the MLB All-Star teams, or finishes in top two in AL or NL Rookie of the Year voting will receive a full year of NPL service time, regardless of how much time they spent on the NPL roster. Any player in the NPL minors who qualifies under this provision will automatically be purchased to the 40-man roster and receive this year of service time during league rollover.
+
+Players can repeat years of service time if they do not receive enough days in the season to advance to the next year’s class.
+
+#### Super Two Service Time {#sec-super-two}
+
+Of players with between 2 and 3 years service time, the top 22% in service time shall gain “super 2” status and become arbitration eligible. All players tied at the 22% cutoff will become super 2.
+
+::: {.callout-note}
+
+Involved in the Super-2 calculation is any player who is on the offseason 40-man roster, plus those who were outrighted during the season. Anyone who was released or is on non-roster does not count.
+Super 2 is inclusive of those with 2.000 service, but exclusive of those with 3.000.
+
+:::
+
+#### 3-5.171 Service Time {#sec-three-plus-contracts}
+
+All players with 3 to 5.171 years of service time qualify for arbitration. A model developed by the NPL Directors governs the arbitration salary each year. This salary is final and cannot be negotiated.
+
+### Arbitration Salaries
+
+Salaries are calculated using a comps-based formula—factoring in the player’s performance, service-time class, and playing time/injuries.
+
+As a general rule, players with:
+
+* 3-3.171 years service time receive 40% of their anticipated free-agent market value per the model
+* 4-4.171 years service time receive 60% of their anticipated free-agent market value per the model
+* 5-5.171 years service time receive 80% of their anticipated free-agent market value per the model
+
+Arbitration salaries can never decrease year-to-year: the least amount a player can receive in an arbitration salary is their prior year arbitration salary.
+
+### More Reading
+
+Read about trading arbitration players and carried salary in (TK).
+
+## Guaranteed (Major-League) Contracts {#sec-guaranteed}
+
+Guaranteed contracts are defined as those belonging to players who:
+
+* Signed as a free-agent, whether in-season or off-season
+* Earned an arbitration salary and the regular season has started
+* Received a league-minimum salary and the regular season has started
+* Accepted a qualifying offer
+* Signed a contract extension
+
+Guaranteed deals are just that---guaranteed. The contracts must be paid in full to the player. Multiple teams can be responsible for a player’s salary through carried salary, releases, waiver claims, and more.
+
+As part of guaranteed deals, a player has several types of contract options as well as a possible opt-out trigger.
+
+As part of a signed contract, you can pay out to the player a signing bonus, spread out up to two payments over a max of two years. All signing bonuses come out of your cash reserves. A \$1 million signing bonus, can theoretically be one installment of \$750,000 in 2013 and another of \$250,000 in 2014. Those bonuses are subtracted from the salaries. So, if you had a \$3,000,000 salary in 2013 you would be paying out \$2,250,000 in payroll and the other \$750,000 in cash reserves.
+
+### Contract Options {#sec-contract-options}
+
+Exercising an option results in guaranteeing the player the listed salary. Buying the player out is paid out of cash considerations, not salary cap space.
+
+You cannot trade a player whose option status has not been clarified for the upcoming regular season---these options must be guaranteed first. For example, if David Ortiz has a club option for the 2019 season, he cannot be traded after the 2018 season until that 2019 option is picked up.
+
+Should a player be released, all buyouts are paid immediately in the year the buyout would have been paid in. Unless specified in the notes section in a player’s line, the buyout listed in the appropriate column is a flat one-time buyout, regardless of number of options in the contract.
+
+NPL requests that you please submit an exercise or decline of an option no matter what to the transactions form. However, be aware that the default assumption is a decline. If you do not submit any action on an option to NPL by the requisite deadline, the option will be declined. Reversals of this declined option are subject to penalities.
+
+#### Club Options
+
+Club options gives the choice entirely to the team whether or not to retain the player at the guaranteed salary listed.
+
+Options tendered are always: 125% the amount of the player’s average free-agent annual salary.
+
+Buyouts are always: 15% of the option salary would have been had the option been exercised
+
+#### Vesting Options
+
+Vesting Options force the club to exercise the option should the player meet criteria outlined on the roster sheet, based off of NPL statistics. Should the player not reach these levels, the option becomes a Club Option.
+
+Some vesting options instead become Player Options through a grandfathered clause from Big Show that was discontinued in NPL.
+
+Options tendered are always: 120% the amount of the player’s average free-agent annual salary.
+
+Buyouts are always: 20% of the option salary would have been had the option been exercised
+
+#### Player Options
+
+Player Options allow the player to either exercise or decline the option after a special bidding period in free agency. This process is also the same for a player holding an opt-out clause. The qualifying offers page includes a section (@sec-qo-decision) that describes the special bidding process that determines whether a player agrees or declines a qualifying offer. In addition to the linked information, the minimum bidding point value for the player option will reflect the player’s salary minus the buyout.
+
+A player declining a player option who then qualifies as a league-minimum pre-arbitration player or arbitration player remains at the status his service time dictates.
+
+Options tendered are always: 115% the amount of the player’s average free-agent annual salary.
+
+Buyouts are always 25% of the option salary would have been had the option been exercised.
+
+### Further Reading
+
+Check out the rules surrounding carried salary and options (@sec-carried-options).
+
+## Pre-Arbitration Non-Guaranteed Contracts {#sec-prearb-contracts}
+
+Players that do not qualify for arbitration or free agency that are on a 40-man roster or Assigned Outright at the conclusion of a regular season receive major-league contract with an escalator based on the year of their service time.
+
+There are three ways a player receives a pre-arbitration non-guaranteed contract:
+
+* Promoted from the minor leagues (A, AA) that season. These players always begin at the league-minimum salary for that season
+* Promoted from non-roster---said players may not necessarily be at a league-minimum salary depending on how they were signed and for how long for
+* Under contract the prior season through one of the above two methods that is retained under team control---said players will not be at league minimum as they will receive an escalator
+
+Players with MLS (major league service) of:
+
+* first time placed on Active Roster: receive a 0% raise
+* 0.000 – 0.171 (less than 1 year MLS) receive a 5% raise
+* 1.000 – 1.171 receive a 10% raise
+* 2.000 – 2.171* receive a 15% raise
+
+All service time for players are based on the service they receive in NPL and not what they accrue in real-life. If a player in MLB gets one full year of MLS but only 150 days in the NPL, he only has his NPL MLS factored in.
+
+These players are eligible to be non-tendered, absolving the team of any salary, or released within appropriate termination day windows following the non-tender deadline.
+
+Any extensions signed by the player results in guaranteed salary.
+
+All pre-arbitration non-guaranteed contracts can be non-tendered.
+
+### League-Minimum Salaries
+
+NPL always follows the MLB CBA in defining league-minimum salary terms. @tbl-league-mins gives those amounts for upcoming seasons.
+
+| year  | salary |
+|:------|-------:|
+| 2023: |$700,000|
+| 2024: |$720,000|
+| 2025: |$740,000|
+| 2026: |$760,000|
+| 2027: |$780,000|
+| 2028+:| decided in next MLB CBA|
+
+: League Minimum Salaries by Season {#tbl-league-mins .striped .hover}
+
+## Minor League Contracts
+
+### Terminology
+
+#### Non-Roster
+
+Non-roster players consist of players signed to minor-league contracts during offseason free agency (with some having opt-out clauses), returned Rule 5 players (see @sec-r5), or players who converted from Assigned Outright during the season to Non-Roster in the offseason (see @sec-xix-a and @sec-xx-d).
+
+#### Rookie, A, Double-A Levels
+
+All prospects in these levels are under contract to the parent club and are not assigned a salary. When promoted to the major leagues by a team, they automatically receive a league-minimum salary (see @tbl-league-mins).
+
+### Timing
+
+#### In-Season
+
+Minor-league contracts can be signed in-season for players with prior MLB service time. Players signed to real-life contracts in foreign leagues (NPB, KBO, etc.) are only eligible to sign major-league contracts in NPL during in-season free agency.
+
+Any player who is in the minor leagues or on non-roster during season has a minimum salary applied when they are promoted to the major leagues. Minor league players receive the league minimum (see @tbl-league-mins); non-roster players receive the salary defined next to their name which they signed in the offseason or had renewed.
+
+#### Offseason
+
+At the end of the regular season, all non-roster players have their contracts renewed at the same amount for the following season unless it needs to be raised up to meet the new league-minimum salary.
+
+In free agency, minor league contracts can be signed that put a player on a team’s non-roster section in Triple-A. If they have more than 3 years of service time, they also become eligible for opt-outs (@sec-milb-contracts). All minor-league contracts are signed for one season only.
+
+Players are not eligible to sign minor league contracts until a defined period in free agency which is several weeks after free agency opens. Please refer to the NPL Free Agent Tender Sheet for all contract restrictions. In essence, a player may not sign a minor-league contract greater than 9.9 points.
+
+Players signed to minor league contracts are eligible to be traded at the conclusion of the Free-Agent Auction.
+
+## Extensions
+
+### Contract Length
+
+Players with service time between 2.000 and 4.171 are currently eligible to sign a contract extension that buys out two free agent years.
+
+### Contract Terms
+
+Extensions are determined based on current year arbitration salary and a formula-based approach to a tender sheet similar to the free-agent tender sheet. Owners plug in the requested amount of years and other salient information into the tender sheet. Every single column highlighted for entry must be populated correctly or the tender will not be considered. The numbers that come out form the basis, but is not necessarily the final determination, of the extension parameters.
+
+Club, vesting, and player options can be requested and span multiple years, but multiple years of options will be difficult to obtain and come at a premium unless the player’s real-life deal has multiple options, in which case NPL will entertain similar parameters.
+
+Terms can only be requested by a team that holds the rights to the player in question, and has the ability to extend the player. Teams that do not hold the rights to the player cannot request terms.
+
+### Free Agent Tender Value
+
+The tender sheet asks owners to take the projected salary for the player’s free-agent years (as defined on the extensions tender sheet) and plug those terms into the free-agent tender sheet as a standalone free-agent contract. (The extension sheet will tell you which year begins the projected free-agent year of the player.) Owners may then plug the resulting point value generated by the free-agent tender back into the extension tender sheet.
+
+Owners may then modify the salaries for the free-agent years of the extension as they see fit, so long as the structure maintains the same number of points and/or the same Average Annual Value and otherwise adheres to the rules for free-agent contracts (e.g., no yearly salary decreases greater than 10%, etc.).[^1] So that the directors can verify the offer, owners should input the free-agency years portion of the extension on the free-agent tender sheet before submitting it.
+
+At no point will you edit the free agent year values of the extension sheet.
+
+[^1]: For contracts that include opt-out clauses, owners are not allowed to significantly backload the contract within the opt-out years. This will be addressed on a case-by-case basis as necessary.
+
+### Finalizing Contract Parameters
+
+The tender sheet must be provided to the NPL extensions representative, who will verify the tender sheet’s accuracy. Owners must indicate whether they changed the free-agent contract parameters from the automatic values provided by the extension tender sheet.
+
+The Directors will then make a determination if the player would sign the length of the contract proposed, a different term length, or whether he will sign at all.
+
+After this information is exchanged, the owner can propose to the extensions representative to sign either the tender sheet structure or different monetary terms along with reasoning why the tender sheet should not be followed such as injury history, performance fluctuations, pertinent real-life extension signed by the player, etc. There will also be occasions where the extensions representatives will ask for higher compensation than the tender sheet suggests.
+
+Once negotiations are complete or otherwise at a stage the Directors should be brought in to decide, the Directors will render a final approval or rejection before the extension is formally signed by the player.
+
+## Opt-Outs {#sec-opt-outs}
+
+### Guaranteed Contracts {#sec-guaranteed-contracts}
+
+A player on a guaranteed contract holding an opt-out clause will be placed in off-season free agency during the offseason their option/opt-out is triggered. Please head to @sec-qo-decision, which defines how a player agrees or declines it to read more about this special bidding process. In addition to the linked information, the minimum bidding point value for the opt-out will reflect:
+
+* The player’s option salary minus the buyout for any player option
+* The player’s buyout value for any vesting option
+* The player’s buyout value for any club option
+
+Should a player opt-out of his contract, there is no buyout.
+
+### Non-Qualifying Free Agents
+
+A player opting out who then qualifies as a league-minimum pre-arbitration player or arbitration player heads to free agency and does not get his contract renewed/an arbitration salary.
+
+See Options Terminology for the rule around a non-qualifying free agent declining a player option.
+
+### Minor-League Contracts {#sec-milb-contracts}
+
+Any player who signs a minor-league contract in the offseason and has at least 3.000 years of MLB service is eligible to opt-out at three periods during the season. If a player does not have 3.000 MLS and a minor-league contract, they are ineligible to opt-out.
+
+Any player who is on a non-guaranteed minor-league contract for more than double the minimum salary must be added to 40-man roster (which guarantees their salary) by the legal 85-man/40-man roster date or they will opt out of their contract.
+
+The three opt-out periods start on the below dates and run through the day before the next-mentioned date. This means that a player can opt out at any time after June 1 following the below parameters.
+
+* June 1: Player will sign a major-league deal worth at least 75% of the minor-league salary value[^2]^,^ [^3]
+* July 15: Player will sign a major-league deal worth at least 50% of the minor-league salary value ^2^^,^ ^3^
+* August 15: Player will sign a major-league deal worth the league minimum
+
+[^2]: Teams can place a bid for a higher amount than the minimum value; highest bidder wins the player. Ties go to the team with the worst record.
+[^3]: Unless the percentage is below league-minimum salary; a major-league salary may never be lower than the league minimum.
+
+The original club may place a bid if they wish, which would effectively allow them to promote the player to the 40-man at a cheaper salary.
+
+Players eligible to opt-out are available on the Free Agents, Waivers, Opt-Outs tab.
+
+To tender a bid, follow the in-season free agency process (@sec-inseason-fa).
+
+## Qualifying Offers {#sec-qos}
+
+### Qualifying Offer Eligibility
+
+Players who qualify for free agency at the conclusion of the regular season are eligible for qualifying offers (QO).
+
+#### Qualification Parameters
+
+Players can qualify for free agency in the following ways that make them eligible for a qualifying offer:
+
+* Contract expiration and service time at or greater than six years
+* Club option declined
+* Player option declined[^4]
+* Player opt-out triggered^4^
+
+Note: Nontendered players, along with those who declare free agency after being outrighted (see @sec-xix-a and @sec-xx-d) are ineligible for qualifying offers.
+
+[^4]: A player’s decision on their contract will not be known before the Qualifying Offer deadline. A team must submit a QO without knowing the player’s decision. If the player ends up electing free agency, the QO will apply. If he relects to retain his current contract, the QO will become irrelevant.
+
+#### Restrictions of Qualification
+
+QOs may only be tendered to:
+
+* Players who have been with the same club the entire season, defined as Opening Day through the conclusion of the regular season.
+* Players who have never received a QO before (marked with a QO in their ‘STA’ column).
+
+In order to garner compensation, the club holding the right to QO must offer the player a guaranteed one-year contract with a salary that will be communicated by the league office at the conclusion of the regular season. QO values are the average of the top 120 highest-paid players from the prior season. (MLB is top 125 of a total of 750 rostered players---a 25-man active roster for 30 teams. NPL is top 120 of a total of 720 rostered players–30-man active roster for 24 teams.) Clubs will then have a window of time to determine whether to tender the QO.
+
+### How a Player Decides to Agree to/Decline a Qualifying Offer {#sec-qo-decision}
+
+In order for the player to decide whether to accept or decline their qualifying offer (which is the same process for deciding on player options and opt-out clauses), the league bids on the player for the first week of free agency.
+
+Players are posted with a minimum point bid required equal to the value of their remaining contract with the original club (in this case, the one-year QO value). Other clubs have the ability to outbid the minimum bid. If this occurs, the player formally becomes an unrestricted free agent subject to bidding.
+
+Should the minimum bid not be reached during this seven-day bidding window, the player will return to the team holding their rights, binding them with their original team for the duration of the defined contract.
+
+####  Accepting the Qualifying Offer
+
+Upon acceptance of the QO by the player, the QO value is assigned to the player on a one-year guaranteed contract (see @sec-guaranteed). The player also cannot be traded until the same date as a non-QO free agent who signs a contract.
+
+#### Declining a Qualifying Offer
+
+If the player does receive a better offer from another club within the eligible bidding window in free agency, the player becomes an unrestricted free agent without any contractual binds to his previous club.
+
+The club will receive a selection in the First Year Player Draft between the end of the first and second round if the player signs a contract for more than $50 million guaranteed, or between the end of the second round and the beginning of the third round (a “sandwich” pick) if less. If the player re-signs with the QO-tendering club, nothing changes with respect to draft picks.
+
+### Draft Picks and Qualifying Offers
+
+If multiple clubs have earned compensation picks off of declined QOs, they will select based on reverse order of winning percentage from the prior regular season. A club cannot pick more than once until all clubs owed compensation have been slotted into the draft order.
+
+A club that eventually signs a player who is subject to compensation will forfeit its second round selection in the First Year Player Draft, unless the club qualified for a protected pick due to having one of the eight worst records in the league. The top third (top 8 overall) of the second round is protected, in which case protecting teams will forfeit its third round pick, and so on---but the club receiving compensation still picks in between the second and third round.
+
+A club signing multiple qualifying offers will lose all eligible second-round and compensatory round picks before moving on to the third round and later.
+
+#### Trading Picks Attached to Qualifying Offers
+
+If teams have traded certain picks that should by rights be lost to signing players with qualifying offers, teams will lose as compensation, acquired draft picks no later than the current round their original draft pick loss would have occurred. If no existing draft pick in the appropriate round would have been given up, the team’s available and earlier draft picks, in reverse order, will be lost.
+
+If the team does not have any available draft picks until beyond their original draft pick compensatory loss, they may not sign a free agent that will cost a draft pick.
+
+Teams that find themselves in a position of not having an available draft pick they can give up will be subject to a $2,000,000 cash penalty by the league, as well as making whole the traded pick that is now lost, to the team that originally acquired the pick.
+
+#### When Pick Loss is Assessed
+
+Draft pick compensation is assessed immediately upon signing a Qualifying Offer-eligible player.
+
+However, pick loss does not “lock” until the roster freeze period for the draft. Should a club acquire/trade a pick that impacts the original assessed qualifying offer pick loss in the interim between pick loss and the roster freeze period, that pick will supersede the assessed draft pick at the time of the signing, subject to the other rules governing pick loss/order.
+
+Additionally, should a club that by rights should not be allowed to sign a QO-player (as discussed above) does so, they must acquire a draft pick to fulfill the pick loss. It is incumbent on clubs to track this eligibility; they cannot void the signing of the player. They must, one way or another, acquire the pick elsewhere or will lose their first-round picks for the next two years, plus be banned from signing another off-season free agent.
+
+::: {.callout-tip title="Example"}
+
+* A club does not have its second-round pick available upon signing a Qualifying Offer. Their first-round pick is lost.
+* A club signs two players with Qualifying Offers and immediately loses their second and third-round picks. One of their own players with a Qualifying Offer signs with another team. The pick loss is changed from second and third to second and compensatory pick.
+
+:::
+
+## Service Time {#sec-service-time}
+
+### Service Time
+
+Players receive NPL service time for each day spent on the 30-man roster or the injured list. Service time is used to determine when players are eligible for arbitration as well as free agency.
+
+Each regular season consists of 187 days, and each day spent on the active roster or injured list earns a player one day of service time.
+
+A player is deemed to have reached “one year” of Major League service upon accruing 172 days in a given year. (A player may not accrue more than 172 days in a single season.) Upon reaching six years of Major League service, a player becomes eligible for free agency at the end of that season (unless he has already signed a contract extension that covers one or more of his free-agent seasons).
+
+All players with at least three (but less than six) years of NPL service time become eligible for salary arbitration, through which they can earn substantial raises relative to the NPL minimum salary. Additionally, NPL each year identifies the group of players that ended the prior season with between two and three years of Major League service and designates the top 22 percent---in terms of service time---as arbitration eligible. Those in the top 22 percent---“Super Two” players---are also eligible for salary arbitration despite having less than three years of Major League service (see @sec-super-two).
+
+More nuance on service time can be found in Transactions section of the NPL rulebook, when service time is tied to a transaction.
+
+### Automatic Additions to Service Time
+
+In addition to more traditional ways of accruing service time, NPL players will receive a full year of service time in a season when, in that given season, they:
+
+* Make the MLB All-Star team
+* Receive any MLB MVP vote
+* Receive any MLB Cy Young vote
+* Finish top two in MLB Rookie of the Year voting
+
+Players will receive this full year regardless of their roster status in NPL (eg. not yet purchased to the 40-man roster, was optioned all year, etc.) Moreover, those that receive a full year of service and are not yet on a 40-man roster in NPL will have their contract automatically purchased regardless of the team’s 40-man roster count or player’s first year of Rule 5 eligibility.
+
+## Veteran Players
+
+Players who have accumulated at least five years of service time are considered “Veteran” players and no longer have options. They also gain certain rights if they are placed on outright waivers.
+
+Veteran players have a ’99’ in the options field on the Rosters sheet to denote their status.

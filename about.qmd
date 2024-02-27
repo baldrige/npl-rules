@@ -1,0 +1,45 @@
+---
+title: "About"
+---
+
+## History
+
+The National Pastime League (NPL) was founded in February 2015 by Evan Brunell (Defenestrations of Prague) and Gerald Andriole (former owner, MIT Beavers).
+
+The current NPL directors are Jarrett Seidler (Asbury Park Bosses), Michael Sarinsky (Hunter Gatherers), Tommy Bennett (Los Angeles Bulldog), Chris Fargis (Brooklyn TOOTBLANs), Bret Sayre (Cheesequake Cheddar), and Daniel Rathman (Defenestrations of Prague).
+
+Before founding NPL, Evan and Gerald were members of the Big Show League, part of Reality Fantasy Baseball. Big Show League was in operation for many years, with the most recent iteration born in 2006. Using RFB’s proprietary engine, Big Show was designed to mimic MLB as closely as possible for the most realistic fantasy baseball experience possible.
+
+For several reasons, Evan and Gerald decided to create their own take on a fantasy baseball league modeled after actual mechanics of an MLB team and formed their own league. Many owners from Big Show are also members of NPL.
+
+After one year using RFB’s proprietary engine, NPL shifted to the Scoresheet platform. Using real-life statistics of baseball players, fantasy statistics are generated with head-to-head games against other teams in the league. Adherence to MLB rules is prioritized and applied whenever possible.
+
+## About the Rules
+
+### Introduction
+
+This rules document covers most, but not all, rules in NPL. If rules are missing, owners may request that the rule be added to the document. Rule changes suggestions may be submitted to the NPL Directors, also serving as the Rules Committee (RC) by email at npldirectors@googlegroups.com. For Winter Meeting rule considerations, please submit your proposal at this link.
+
+All rule changes must go through the Rules Committee with the exception of programming or technological developments, which will be announced to the league as rapidly as NPL ambassadors learn of changes.
+
+### Committee
+
+The Rules Committee comprises all [league directors](mailto:npldirectors@gmail.com).
+
+### Rules Changes
+
+#### Standard Rule Changes
+
+All rules must meet the approval of the RC before the league can vote on the rules. For those that do not meet approval from the RC, a vote on the rule will not be considered.
+
+The majority of all rule changes will be voted on and applied in the early offseason, primarily at the Winter Meetings. Most rule changes will fall under this category.
+
+For league votes on rule changes, a quorum (51%) of teams in the league must weigh in, and votes are by simple majority.
+
+#### Emergency Rule Changes
+
+The Rules Committee may propose an Emergency Rule Change at any point to address immediate and pressing situations outside of the Winter Meetings that has significant impact if the rule is instituted. Emergency Rule Change proposals will be voted on in a timely fashion by the league and require 75% approval from voting participants (those who abstain are not counted in the vote) to pass, and a quorum must be reached. Emergency Rule Changes that pass will be expedited and go into immediate effect upon completion of the vote.
+
+#### Executive Rule Changes
+
+The Rules Committee has the power to institute Executive Rule Changes at any point in the season in situations where the committee deems it appropriate. Oftentimes, these rule changes are either transactional in nature, must be altered to meet new MLB CBA rule changes, and/or are “common sense” changes. Executive Rule Changes requires 90% of the league to vote to reverse it, with a quorum met.

@@ -1,0 +1,41 @@
+# Organization Structure
+
+The overall roster limit per team is 85 players. Each roster is divided into a major league roster (see @sec-mlr) and a farm system (see @sec-farm).
+
+## Major League Roster {#sec-mlr}
+
+An NPL major league roster has two limitations: the Active Roster and 40-man roster.
+
+### 40-Man Roster
+
+At no point during the regular season or offseason, except for a brief period following the regular season, can a a club have more than 40 players on the 40-man roster. Players on the 40-man roster are either Active or on Option during the regular season.
+
+### Active Roster
+
+Between Opening Day and August 31st, the Active Roster comprises 30 (no more, no less) players who are all available for NPL major league games. (In MLB, this is the 26-man roster.)
+
+Between September 1st and the end of the regular season, Active Rosters are expanded to 40 players, but clubs do not need to staff all 40– no less than 30, no more than 40.
+
+After the last game of the regular season, there is no difference between the Active and 40-man roster until Opening Day of the following season.
+
+## Farm System {#sec-farm}
+
+NPL clubs have three levels of minor leagues: Triple-A, Double-A, and Single-A.
+
+A team can only have 85 total players on the 40-Man Roster, 60-Day disabled list, Restricted List, Triple-A, Double-A, and Single-A. Players on the End of Season Disabled List, Retired, and Foreign do not count to the 85-man limit.
+
+### Triple-A
+
+Triple-A comprises players optioned to the minors, players assigned outright, and non-roster players. Triple-A players may not be demoted to the lower levels.
+
+### Double-A & Single-A
+
+Players may only be acquired for Double-A or Single-A through the First Year Player Draft, the International Free Agency Signing period, and trade.
+
+There is no limit to the number of players who may be placed in a club’s Double-A and/or Single-A levels, though clubs may never exceed the organizational limit of 85 players. A player’s presence in Double-A is defined by the year next to their name: years of the next two upcoming seasons plus all previous years reside in Double-A. Everyone else is in Single-A.
+
+::: {.callout-tip title="Example"}
+* In the 2019-2020 offseason, Double-A players holds players with the years prior to 2019 (2019, 2018, etc.), 2020, and 2021. 
+* In the 2019-2020 offseason, Single-A players holds players with the years of 2022, 2023, and 2024. 
+
+:::

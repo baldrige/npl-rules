@@ -1,0 +1,177 @@
+# Amateur Acquisition
+
+## Rule 4 Draft (First-Year Player Draft) {#sec-r4-draft}
+
+Each year, NPL clubs drafts amateur and minor-league players into its organization through the First Year Player Draft, paying signing bonuses out of a team’s available cash.
+
+### Draft Order
+
+For rounds 2-closeout, NPL clubs draft in reverse order of the previous season’s regular season records: the team that had the lowest winning percentage receives the first selection in each round and the team with the highest winning percentage receiving the last selection.
+
+If two or more clubs have the same winning percentage, the selection order shall be determined by the prior season’s records previous to the most recent season concluded. If a tiebreaker continues, it will be broken by which team has the worse run differential in the most recent concluded season.
+
+Beginning in 2024, the Directors will conduct a draft lottery to award the first six picks in the first round, with the fourteen teams who missed the playoffs eligible. Each team will receive the following number of balls in the lottery, constructed in the same fashion as the 2022 MLB CBA, as shown in @tbl-lottery.
+
+| Season Finish | Lottery Tickets |
+|:--------------|----------------:|
+|24th place:    |        165      |
+|23rd place:    |        165      |
+|22nd place:    |       165       |
+|21st place:    |       132       |
+|20th place:    |       100       |
+|19th place:    |       75        |
+|18th place:    |       55        |
+|17th place:    |       39        |
+|16th place:    |       27        |
+|15th place:    |       18        |
+|14th place:    |       14        |
+|13th place:    |       11        |
+|12th place:    |       9         |
+|11th place:    |       8         |
+
+: Lottery Tickets by Prior Season Record {#tbl-lottery .striped .hover}
+
+Picks 7-14 will go to the non-playoff teams who did not win a lottery pick, and picks 15-24 will go to the playoff teams, both in the same draft order as later rounds.
+
+### Number of Selections
+
+Teams may make as many selections as they like until the organization reaches a maximum of 85 players in its organization. A deadline prior to the Rule 4 Draft will be provided to allow teams to release as many players as it wishes to clear space for draft picks. Teams may cease making selections after any round by passing. Once a club passes, it may not make another selection in that year’s draft. If teams pass before Round 5, teams are not entitled to the slot money of picks not made.
+
+### Roster Placement
+
+Newly signed players join the Single-A roster of the NPL club. Rookie league is at the discretion of the owner.
+
+### Eligible Players
+
+The following categories of players are eligible for the Rule 4 draft:
+
+* Any draftee from the most recent year’s MLB Draft
+* Any unowned minor league player who does not have any MLB Major League Service time
+* Players who were not signed during the International Free Agency phase (or were previously signed in IFA and subsequently released)
+
+::: {.callout-important}
+
+This merits emphasis: if a player has appeared in MLB even for one day and earned MLS, they are ineligible for the FYPD, unless they were drafted in the most recent MLB Draft and debuted in the same year.
+
+:::
+
+### Team-Acquired Cash
+
+Every offseason, NPL clubs receives an allotment of cash. You may use these monies for IFA, other cash-related expenditures, or for FYPD bonuses.
+
+You cannot select any player in the draft after the 5th round if you have negative cash reserves at that exact moment. If you enter the draft with negative cash reserves and wish to make picks after round 5, you must ensure you gain enough cash through slots to end up with enough cash. Should you attempt to draft a player that sends your cash in the negative, your pick will be invalidated and you must repick or pass. This is the only time at any point in the offseason that a team cannot go into negative cash reserves.
+
+#### Slot Values, Rounds 1-5
+
+NPL clubs also receive cash considerations in the form of draft slot bonuses for the first five rounds, which will be determined and added to each team’s stable of available cash after rosters freeze for the FYPD. Slot bonuses will mirror MLB slot values for each pick exactly.
+
+If clubs pick below slot for their picks, the team can keep the remainder of the cash. If they go overslot, the club must pay out of their cash reserves for the difference.
+
+Over and below slot is defined as the differential between the designated NPL slot for that pick and player’s actual NPL bonus.
+
+#### Slot Values, Rounds 6+
+
+From the sixth round on, bonuses in their entirety come out of a team’s available cash reserves---the designated NPL slot for these picks take on an entirely new function with no relationship to slots in Rounds 1-5.
+
+Slot values in Rounds 6 and on are averaged with the player’s actual MLB bonus to come up with the NPL bonus that teams will pay out of cash. From the eighth round on, the slot value is always $100,000.
+
+### Signing Bonuses {#sec-draft-bonuses}
+
+Teams pay out of cash reserves to draft players using the player’s actual MLB bonus as a factor. The Commissioner’s Office, as well as all teams who wish to have this information, will attempt to obtain accurate bonus information for each player drafted. In the event of an unknown bonus, the player’s MLB bonus will be $0.
+
+#### Redraft Bonuses
+
+If a player is eligible to be redrafted (that is, they were in an NPL minors system previously and were released without gaining MLB service time), the player’s MLB signing bonus becomes a flat $100,000 or their actual bonus, whichever is lower.
+
+This will be up to each club to identify who these players are and they will have to notify the league on the FYPD call. Redrafts can also be identified up to a few days post-draft.
+
+### Loss or Gain of Draft Picks
+
+#### Qualifying Offers
+
+Teams who sign Qualifying Offer players (see @sec-qos) are at risk for losing their second-round draft picks (and subsequent), while teams that lose a QO player gain a pick in a compensation round that follows the first (contract signed greater than $50 million) or second round.
+
+Teams are ordered by reverse standings in the compensation rounds unless there are multiple picks for one team. The second pick of a team will go at the end of the first compensation pick by any and all teams, and so forth.
+
+#### Trading Draft Picks/Players {#sec-trading-picks}
+
+Draft picks for the upcoming draft may be traded at any time after the present year’s FYPD up until the Roster Freeze period prior to the upcoming FYPD in order to have the acquiring team reflected on the draft sheet. You may not trade future year draft picks---only the upcoming ones can be dealt.
+
+You may continue to trade draft picks after the roster freeze and during the draft. However, these trades will not be processed until after the draft---therefore, the the team originally holding the pick at the start of the draft must, if they trade a particular selection:
+
+* have enough roster space to draft the player for you
+* have enough cash to draft the player for you (it is the trading partners’ discretion who pays for the cash ultimately by sending cash along, but the original team will have to pay for the pick out of its own reserves initially)
+* not have passed in the draft already (passing constitutes waiver of the team's reamining draft picks)
+* notify the league on the call, with the consent of the acquiring team confirmed
+  * if there is no notification, the team holding the draft pick must be present to make the selection---emailing in the draft pick trade does not suffice
+  * if there is notification, the team holding the draft pick can choose to depart the draft with the acquiring team announcing the selection
+
+Draft slot values are automatically included in any trade of draft picks. You cannot withhold the draft slot of the pick and trade the pick itself.
+
+Players that were drafted in the most recent FYPD can be traded immediately following the draft once the player is placed on the drafting club’s roster.
+
+## International Free Agency
+
+### Eligibility
+
+International Free Agency is a special signing period for international amateurs not eligible for the MLB First Year Player Draft. In NPL, eligible players for IFA must:
+
+* Be under the age of 25 by January 1 of the given year that IFA begins (which is always after New Year’s of the upcoming regular season)
+* Be unowned by an NPL team, whether currently or previously (previously owned IFA players are eligible for the NPL First Year Player Draft)
+* Not have three or more seasons of experience in NPB or KBO.
+* Signed by MLB organizations internationally (whether as part of the most recent MLB IFA period or prior) by the date the NPL IFA period begins
+* Not have played in an affiliated stateside minor league (excluding the Dominican Summer League) in more than one calendar year, regardless if a partial or full season
+
+::: {.callout-tip title="Examples"}
+
+If a player appeared in just 1 game in a U.S.-based minor league in 2018 and 1 game in 2019, he is NOT eligible for IFA and will instead be available in the upcoming FYPD, because he played stateside in two calendar years
+
+:::
+
+One exception to eligibility for IFA is for players who received major-league contracts when they were signed internationally; these players are instead available to be signed in the offseason free agency period.
+
+### Signing IFA players
+
+Players are posted to the website auction with bidding in dollars, not point values. There are built-in minimum increments you must meet. There is a predetermined conclusion to the IFA period, at which point all outstanding open bids will be handled through a silent auction. When signed, a player’s bonus is removed from a team’s cash considerations and counted against the IFA bonus pool cap space (see below).
+
+The highest bid claims the player. Through the auction platform, there are no tying bids allowed. If you would like to win a player, you must always bid the highest value, limited in your constraints regarding cash on hand and IFA cap space.
+
+The one exception is if more than one team decides to max out their entire IFA cap space on one particular player.[^1] Should two or more teams make this determination, and their total IFA cap space is exactly the same, and it would be the winning bid, the team that does not secure the high bid through the website must contact the NPL IFA director and state their desire to match the high bid. All ties are broken with prior season record.
+
+[^1]: This must be the entire IFA cap space your team was allotted plus the full amount of cap space you are able to acquire in trade. If you have spent some of this cap space already on other IFA players, or did not max out the amount you can acquire, this exception does not apply.
+
+### Nominating IFA Players
+
+Player nominations will be done by Google Form at bit.ly/nplifanoms. When you submit, you will need to include the player’s name, MLB org, position, and — if available — a link to his Baseball-Reference page, to avoid any confusion. The timeline for bidding follows the same as offseason free agency and is communicated each year leading up to the free agency period.
+
+Similar to offseason free agency, teams are responsible for signing IFA players to the bid minimum that they nominate should no bids be received for the player in the three-day bid minimum window.
+
+### Bonus Pool {#sec-IFA-bonuses}
+
+Every NPL club receives a bonus pool cap space allotment in which to sign payers that is not known until the end of the regular season, after standings lock. Unlike the First Year Player Draft, there is no relationship between an IFA bonus pool and cash considerations.
+
+* You sign a player with the cash available on hand in your organization
+  * If you do not have cash on hand to sign the player, you may go into the negative and either acquire cash or take a penalty once offseason rosters convert to in-season.
+* The player’s bonus is then debited from your overall IFA bonus pool cap space
+  * You may never go past your IFA cap space---if you go over before the IFA period concludes, you must acquire the necessary space before the conclusion of the period to avoid penalties.
+
+The allotment is broken down as shown in @tbl-IFA-cap, by where teams finished in the standings.
+
+| Season Finish | Initial IFA cap |
+|:--------------|----------------:|
+|   Bottom 8:   |   $5.75 million |
+|   Middle 8:   |   $5.25 million |
+|   Top 8:      |   $4.75 million |
+
+: Initial IFA allotment by previous season record {#tbl-IFA-cap .striped .hover}
+
+During the regular season, all teams are assumed to have $4.75 million of IFA cap space to allow for bonus pool trades. After the season, everyone’s cap space is updated accordingly.
+
+Teams may acquire up to 75% of their current IFA cap space from another team. At no time can a team’s IFA cap space exceed its initial allotment of 175%. (This means you can reacquire cap space you have traded since the 175% rule is based on initial allotment.)
+
+#### Exceptions to Bonus Pool
+
+A signing bonus paid to a first-year international player age 25 (defined above) or older who has spent all or part of at least six seasons playing in an MLB-recognized foreign professional or “major” league does not count against the club’s IFA cap space.
+
+As of the 2020 IFA period, all player signings count against the club’s IFA cap space.
+

@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: d05fa926-2cce-4851-978a-75b4918ed40c
+      url: 'https://tbb.quarto.pub/npl-rules'

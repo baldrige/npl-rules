@@ -1,0 +1,53 @@
+project:
+  type: book
+  
+book:  
+  title: "National Pastime League Rules"
+  chapters:
+    - index.qmd
+    - league_structure.qmd
+    - organization_structure.qmd
+    - financials.qmd
+    - contracts.qmd
+    - amateur_acquisition.qmd
+    - free_agency.qmd
+    - transaction_types.qmd
+  sidebar: 
+    title: "NPL Rules"
+    logo: logo.png
+    alignment: center
+    tools: 
+    - icon: menu-down
+      menu: 
+        - text: "Rosters"
+          url: https://docs.google.com/spreadsheets/d/1On6uRXLRQ3pzl2FHYRgWKCedsCdl6UNbNaSF6pwlGiw/edit?pli=1#gid=70047649
+        - text: "Transactions"
+          href: https://docs.google.com/spreadsheets/d/1UQv_vnBBWUT8BiFRd7tAbvW4COWJ61BNkme7iyzf5po/edit#gid=835333990
+  downloads: [pdf]
+  open-graph: true
+  
+format:
+  html: 
+    theme: 
+      light: flatly
+      dark: [darkly, theme-dark.scss]
+    reference-location: margin
+    link-external-icon: true
+    crossrefs-hover: true
+    toc-depth: 5
+  pdf: 
+    toc: true
+    number-sections: true
+    colorlinks: true
+    documentclass: scrbook
+    geometry:
+      - left = 1.5 in
+      - right = 1.5 in
+      - top = 1.5 in
+      - bottom = 1.5 in
+      - heightrounded
+    fontsize: 12 pt
+    fontfamily: libertinus
+    header-includes: |
+          \titlehead{\includegraphics[width=5.5in]{logo.png}}
+

@@ -1,0 +1,441 @@
+# Transaction Types
+
+## Departures from MLB
+
+### Death {#sec-death}
+
+In the event of a death of a player still under a guaranteed major-league contract to a NPL team, the player will be removed from the team’s roster and the team will carry 25% of the player’s salary as a life-insurance policy fee.
+
+If a player has a non-guaranteed or minor-league salary, they are released with financial rules therein remaining unchanged.
+
+### Foreign Leagues
+
+If a player leaves MLB in real life to pursue a career in another professional league and is under contract in NPL, the owning team must continue to pay the player the contract owed. The current contract status (guaranteed, non-guaranteed, minor league, etc.) will remain in force as if he was still in MLB. It is owner’s discretion how to handle the contractual status of said player, whether via releasing or placing on the Foreign list.
+
+Should the player have a major-league contract of some type, the player can be placed, upon request, in the “FOREIGN/RETIREMENT” section of the team roster and will not count against the 30-, 40- or 85-man roster restrictions and is eligible to be traded. A player with a minor-league contract that is already off the 40-man roster remains as part of the 85-man unless/until released.
+
+Should the player return to MLB prior to his NPL contract being up, he will immediately be restored to active status, which may dictate a corresponding move by the club to clear space.
+
+### Retirement
+
+If a player retires in real life and is under contract in NPL, the owning team must continue to pay the player the contract owed. He will be placed in the “retired” section of the team, and will not count against either the 25-, 40- or 85-man roster restrictions. He is eligible to be traded at any point. Should the player return to MLB prior to his NPL contract being up, he will immediately be restored to active status, which may dictate a corresponding move by the club to clear roster space.
+
+## Injured List {#sec-IL}
+
+Only major-league players on an MLB injured list may be placed on a NPL injured list (see Exceptions below). There is no IL in the offseason---placement begins at a determined date in March and lasts through the regular season.
+
+Any injured list stint in MLB automatically disqualifies the player from being sent to the minor leagues or released in NPL.
+
+If a player is transferred from a prior IL list to one with a greater minimum stay limit, the time spent on the prior IL counts towards the minimum period.
+
+IL stints cannot be retroactive/backdated in NPL, unlike in MLB.
+
+::: {.callout-important}
+
+It is absolutely incumbent on the NPL club to track a player’s IL status in MLB/NPL. The NPL League Office maintains a “Injured List Tracker” on the Rosters workbook to display when a player can come off the IL and whether there are penalties incurred. No attempt will be made by the League Office to inform the team when a player is active, or if penalties are incurred.
+
+:::
+
+### Types of IL
+
+* **7-Day IL**: Player must stay on the IL for at least 7 days with no maximum date limit. Must be on the 10- or 60-day IL in MLB. Does not count against Active roster, counts against 40- and 85-man.
+* **56-Day IL**: Player must stay on the IL for at least 56 days with no maximum date limit. Must be on the 10- or 60-day IL in MLB. Does not count against Active roster or 40-man, counts against 85-man. A player may not be placed on or transferred to the 56-day list unless the club’s 40-man roster contains 40 players.
+* **End of Season IL**: There is an NPL-specific End of Season Injured List (EOS IL). Each team can place players that are expected to miss the rest of the season on the EoS IL that will not count against his team’s 85-man roster limit. There must be incontrovertible, concrete proof of a player’s injury keeping him out the entire season. Should the player return in MLB that is on the NPL EOS IL, there is a penalty incurred. Once a player is placed on the EoS IL he cannot be activated for the rest of the season. Once the season is over he must be removed from the EoS IL and he will again count toward the 85 man limit.
+
+### Activating a Player
+
+Once a player reaches the date eligible to be reinstated from the NPL IL, a team may activate the player even if he remains on the IL in MLB.
+
+If a player is activated off the IL in MLB, the NPL team will have until the next Scoresheet cycle to activate the player before being at risk for penalties.
+
+### Special Rules for IL Placement
+
+::: {.callout-important}
+
+Note that these exceptions supersede all conflicting rules.
+
+:::
+
+During spring training, if a player is injured in MLB with clear evidence and has not been placed on the injured list yet, the NPL team may send in a 7-day injured list request (cannot send in a 56-day request) for the player, with evidence proving the injury.
+
+If a player is either a free agent in MLB, signs a minor-league contract (thereby not being placed on the MLB IL), or was placed on the 40-man roster prior to the Rule 5 deadline, is clearly injured (with supporting evidence), an NPL team who has the player on a major-league contract will be allowed to either place the player on the IL or option/waive the player. This privilege expires upon the first recall in which the player is or has already returned from the injury and played in an MLB game.
+
+### MLB IL Placement
+
+Players who are optioned by the MLB team and subsequently optioned by the NPL club must be returned to the major leagues and placed on the IL should the MLB team void the option and place the player on the IL. This tends to happen several times a year in MLB.
+
+There is no time limit on the voiding of the option and placed on IL; should the move occur at any point in time in MLB, or not be caught in NPL by league officials for an indeterminate period of time, it will be rectified in NPL to ensure accurate processing.
+
+Should the NPL team option the player prior to the MLB option, this rule does not apply, except at the start of the regular season. All players optioned in NPL will be reviewed to start the regular season---placement on a MLB IL will result in placement on the NPL IL.
+
+Should the NPL team option the player at any point during the regular season within the window for the coming week’s transactions and the player hits the IL by the time the player’s MLB team plays its next game after the weekly Monday deadline at 1pm*, the option will be voided and the player put on the NPL IL. If the player is optioned and the player’s MLB team plays a game prior to the IL stint, the option remains in effect.
+
+::: {.callout-tip title="Examples"}
+
+* John Doe injures himself during Sunday Night Baseball. It is a pretty clear injury, but there is no IL assignment, or news, by the time the Monday deadline rolls around. The NPL team can either:
+  * carry the player hoping that he is healthy or will only sit out a few games,
+  * carry the player and go without that week if the player does not play or hits the IL,
+  * option the player to the minors, with the full understanding that he will be pulled back to the IL if he hits the IL for his team before Monday night’s game for that team.
+* Jason Smith is optioned by a NPL team on Wednesday for the following week’s games, and he injures himself on Saturday and is placed on the IL. The option is voided and Smith is placed on the IL.
+  * ”…by the time the player’s MLB team plays its next game after the weekly Monday deadline at 1pm…”
+* Jim Doe-Smith injures himself during a game on Saturday and sits out Sunday’s game. The NPL team options Doe-Smith, who sits out Monday’s game as well. On Tuesday, he is placed on the MLB IL (and is/isn’t backdated to Saturday). The NPL option stays in effect.
+
+:::
+
+## Optioning, Recalling, and Purchasing Players
+
+### Optioning a Player
+
+To remove a player from the Active roster without removing him from the 40-man roster, the club must option the player. Only certain players may be optioned, and clubs may only option players during certain times of year. The following guidelines apply to optioning players to the minor leagues.
+
+#### Transactions Terminology
+
+**Purchase Contract**: Add a player to the 40-man roster, whether from the minor leagues (off-40), Assigned Outright, or Non-Roster.
+
+**Option Player**: Send a player down from the Active Roster to Triple-A on option (does not remove from 40-man roster).
+
+**Recall Player**: Bring a player up from Triple-A who had been previously optioned.
+
+**Waivers**: The only other way you can remove a team from your Active Roster is through waivers, which also potentially removes them from the 40-man as well. For more about waivers, see @sec-waivers.
+
+### Option Years
+
+The first time a player is ever called up to an NPL club’s Active Roster, the club receives three option years on the player until all options are used up or the player becomes a veteran (see @sec-option-terms)---whichever comes first.
+
+An option is for the year, not the transaction, so a player may be promoted or demoted multiple times in a given year, all counting as one option.
+
+#### Option Timing Limitations
+
+During the season, any player optioned to the minor leagues may not be recalled to the active roster for at least 14 days (two Scoresheet cycles). However, optioned players may be recalled before the 14 days have expired if they are replacing players who were placed on the injured list or traded.
+
+Any optioned player who is sent to the minor leagues and does not accumulate at least 20 days in the minor leagues during the entirety of the season will be considered to have a full year of service time in the major leagues and will not have an option year removed.
+
+Players may not be optioned from the close of the final weekly transaction deadline dated in August until near the beginning of the next regular season, a date set forth in the “Important Dates” column of the Roster workbook. (So basically, you cannot option a player during September and the offseason.)
+
+### Option Terminology {#sec-option-terms}
+
+In the option cell on rosters, the numbers correspond to certain actions you are able to take.
+
+* **‘99’** — Player is of veteran status and cannot be optioned to the minor leagues. The only assignment to the minor leagues is via Outright Waivers.
+* **‘0’** — Player has no remaining options. If he is in the MLB minor leagues (or otherwise out of the major leagues), you may option the player to the minors with no penalty (essentially a free option). If he is in the major leagues, the only assignment to the minor leagues is via Outright Waivers.
+* **‘1-3’** — A number in this column indicates the number of option years remaining. The player may be optioned freely unless the Date next to his name has passed.
+Dates of service also impact a player’s rights when put on outright waivers.
+
+## Releasing or Non-Tendering a Player
+
+### Releases {#sec-releases}
+
+#### Major League Contracts
+
+A club can release a player direct from the 40-man without going through the waiver process. The releasing team is responsible for any salary in full for guaranteed contracts and termination pay for nonguaranteed contracts.
+
+The following governs a player’s option status if released prior to the option year:
+
+* Club and vesting: buyout paid.
+* Player option or opt-out: future salaries remain on the books of the releasing team, and accordingly decreased by the amount of the player’s salary in that given year if he signs with a team.
+
+If the player is signed in the future by another team, the salary that the new team signs the player for will be credited to the original releasing team if the original contract remains in effect up to the value of the respective years in the original contract.
+
+Releases are subject to the player’s IL status (see @sec-IL).
+
+#### Minor League Contracts
+
+If a player is on a minor-league contract---defined as anyone on NonRoster or Rookie, Single-, or Double-A---they can be jettisoned without any consequence at any time outside of any defined roster freeze period for the First-Year Player Draft.
+
+### Nontenders {#sec-nontenders}
+
+In the offseason only, players on arbitration contracts (see @sec-arb-contracts) or prearbitration contracts (see @sec-prearb-contracts) can be nontendered anytime before deadline---provided that they do not have a guaranteed contract.
+
+Nontenders mean you choose not to tender a contract through arbitration or the pre-arbitration level, releasing the player from his contract to free agency. There is no salary cap or cash cost to execute a nontender. You must nontender a player before the nontender deadline, which comes after you know the arbitration value but before any arbitration hearings you may elect to take a player to.
+
+After the nontender deadline, you can still release the players that could have been non-tendered and pay termination pay prior to bearing the full freight of salary in the regular season. Guaranteed contracts are not subject to termination pay.
+
+::: {.callout-note}
+
+Should you take no action, the default is that a team chose to tender the player. If you wish to nontender the player and remove your obligation to the player, you must submit a transaction.
+
+:::
+
+#### Termination Pay
+
+In the offseason, deadlines are provided that will allow for either 30- or 45-days termination pay leading up to Opening Day for players on nonguaranteed contracts (see @sec-arb-contracts and @sec-prearb-contracts).
+
+The releasing club will pay the prorated 30 or 45-day termination pay via cap space to the player as a cost of releasing the club of its obligation of the full salary. If a eligible player is injured during the termination window and released, his full salary is paid out instead of termination pay. If an eligible player is injured before the termination window and released during the termination window, he may be eligible for termination pay subject to discussion with the Directors.
+
+## Restricted List
+
+NPL teams can only place a player on the restricted list in which the corresponding MLB team has executed the transaction.
+
+Under Major League Rule 15, a team may petition MLB to place a player on the restricted list if he is unable to render his services to his club through some action of his own.
+
+Typical circumstances include (but are not limited to):
+
+* failure to report
+* visa problems
+* domestic abuse situations
+* treatment for drug or alcohol abuse.
+
+A player on the restricted list follows the conditions laid out on the Restricted List tab in the [NPL Transactions workbook](bit.ly/npltransactions). A team may keep a player on the list indefinitely until he is reinstated under Major League Rule 16. These conditions may include a credit of carried salary and/or debit of player service time.
+
+Once a player comes off the RL in MLB, the MLB club has 30 days in which to place them back on the 40-man. NPL clubs will have until the next Monday at 1pm ET following the transaction in MLB, unless the transaction takes place inside 24 hours (Sunday at 1pm ET).
+
+You may choose to release a player on the RL, but will still be liable for any salary that is not lost through the RL conditions.
+
+## Rule 5 Draft {#sec-r5}
+
+### Draft Order
+
+Like the Rule 4 First Year Player Draft, NPL clubs shall select in reverse standings order of the preceding season, determined by the percentage of games won in the season. If two or more clubs of a league have the same standing, the selection numbers shall be determined by the percentage of games won in the prior season, then by the worse run differential.
+
+### Player Eligibility for MLB Rule 5
+
+In the MLS column on the roster sheet, every minor league player has a year notated for Rule 5 eligibility. Any minor-league player with the year of the regular season most recently concluded or before is eligible for Rule 5.
+
+::: {.callout-tip title="Example"}
+
+It is currently December 2017. Any player with the date 2017 or earlier is eligible for Rule 5.
+
+:::
+
+In addition, all players who are on a Non-Roster or Assigned Outright section of a team is eligible for selection. Contracts and related financials of players transfer in their entirety.
+
+### How Rule 5 Eligibility Years Are Determined
+
+During the First-Year Player draft, these years are determined by age. Age is defined as the age at the MLB domestic signing deadline in the regular season just concluded.
+
+* 19+: Four seasons (three years) added onto the draft year
+* 18.364 and younger: Five seasons (four years) added onto the draft year
+
+### Roster Limits
+
+Teams that have a full 85- or 40-man at the Roster Freeze Day in preparation for the Rule 5 Draft cannot make a selection in the Rule 5 Draft or trade their pick. These teams will pass automatically. All signings and trades after the Roster Freeze Day do not affect pick eligibility.
+
+Teams that have a full 85-man cannot make a selection but can trade their Rule 5 Draft picks.
+
+During the draft, once a team reaches 40 or 85 players respectively, it will pass on its remaining selections.
+
+### Selecting Players
+
+Clubs may select any qualifying player, regardless of present or perceived minors/MLB status for the upcoming season. A player’s minors/MLB status does not affect the player’s Rule 5 status in NPL. Teams have the option of carrying a selected player on their Active Roster who is not on an MLB Active Roster---however, the team must be prepared to pay penalties (see Penalties section in Finances)
+
+Clubs that select players in the Majors Rule 5 Draft shall pay the player’s former club cash considerations in the amount of $100,000 at the time of the selection.
+
+You may make a selection off your own team’s roster.
+
+Each NPL club may select as many players as it so chooses until it reaches the respective 80- and/or 40-man roster limit.
+
+::: {.callout-note}
+
+Players selected in the Rule 5 draft will receive any salary presently assigned to them on the Assigned Outright or Non-Roster section of the prior team's roster.
+
+:::
+
+Teams may cease making selections after any round by passing. Once a team passes, all of its ensuing selections are also passed on.
+
+Players selected in the Rule 5 draft must remain on the NPL club’s active roster (or minors for the minor-league portion) for the entire season unless the player is placed on the MLB injured list, in which case he may be placed on the NPL IL.
+
+### Trading
+
+#### Trading Rule 5 Draft Picks
+
+All teams that meet appropriate roster limit guidelines can trade or acquire Rule 5 draft picks up to and during the draft. The draft order is never updated with trades---players will be selected by the team originally holding the pick and then traded.
+
+Please note that this means the selecting team will be charged the selection amount in cash reserves, NOT the acquiring team. To put this another way, teams that don’t want to be paying for a player they are not keeping should request the cash reserve price to make a pick in trade from the team to which the player is being traded.
+
+#### Trading Rule 5 Draft Selections
+
+The drafting team may negotiate with the player’s original team to obtain the rights to the player in either direction.
+
+If Rule 5 rights are acquired by the original or selecting club, the player immediately goes to the trade-acquiring club’s nonroster with no cash considerations paid in either direction.
+
+If a Rule 5 player is traded to a team that was not the original club, Rule 5 restrictions remain in effect on the player.
+
+### Removing Major League Rule 5 Player from Roster
+
+Clubs that selected a Rule 5 player must keep the player on the roster until a specified deadline in spring training. At that point and continuing through September, a club can return a Rule 5 player at any time.
+
+The player must clear Rule 5 waivers, in which he is offered to all of NPL with Rule 5 restrictions. Should a club claim the player, there is no cost to do beyond adhering to Rule 5 restrictions of the player.
+
+If the player clears waivers, he is offered back to the original club. If the original club accepts the player back, it shall pay the sum of $50,000 to the selecting club. If the club declines the player’s return, the player immediately goes to the selecting club’s nonroster with no cash considerations paid in either direction.
+
+Please see the Trading section for guidelines on removing a Rule 5 player from a roster via trade.
+
+A club that claims a player off Rule 5 waivers may not collect the return fee should the club later return the player to his original team unless four full weeks (four Scoresheet cycles) have passed in the regular season between waiver claim and return.
+
+## Trades
+
+### What Can Be Traded {#sec-what-can-be-traded}
+
+Teams may trade only players currently under contract, players to be named later (PTBNL),[^1] cash considerations, carried salary, draft picks, and IFA cap space. If you wish to trade something not on this list, it may or may not be allowed---check with the Directors.
+
+As of 2020, a trade can be consummated for nothing, designated as “future considerations.”
+
+Players must be currently bound to a team on a nonguaranteed or guaranteed contract---options do not count as a binding contract. A player and club must resolve its club, vesting, or player option, or opt-out before they can be traded.
+
+::: {.callout-important}
+
+What cannot be traded includes, but may not be limited to: 
+
+* Cash considerations greater than one year ahead
+* Draft picks for future drafts (only picks for the next upcoming draft may be dealt)
+* Future IFA cap space 
+* Future players outside the PTBNL window.
+
+:::
+
+[^1]: All players to be named later must be satisfied prior to the start of the NPL quiet period each October. This means the longest someone can be a PTBNL is from November of one year to October of the next (approximately 11 calendar months). Additionally, PTBNLs can only be players not on the 40-man roster at both the time of the trade. To ensure compliance, you must submit the PTBNL or a list of potential PTBNL to the NPL transaction email at the time of the trade.
+
+### Trade Deadlines
+
+* **October (after NPL World Series)--July 31**: Trade deadline (free exchange of players, financials, picks, etc.)
+* **July 31--conclusion of World Series**: No trading of major league contracts
+ 
+#### Post-Trade Deadline
+
+Much like in MLB, trades are technically allowed after the standard trade deadline, but there are some exceptions:
+
+* No players currently on a major-league guaranteed contract can be traded, even if the player is no longer on the 40-man roster. (The only eligible players to be dealt are those in Single- or Double-A, plus the Non-Roster portion of Triple-A.)
+* Players to be Named Later in this special trade period can only be those who are eligible to be traded now. (So you cannot PTBNL a player that would otherwise violate the above bullet.)
+* Carried Salary not tied to a player (see below) cannot be traded. All other forms of non-player collateral can be traded.
+* Traded players are eligible for the NPL playoffs, as long as their contract is purchased by the playoff roster deadline.
+
+### Draft Pick Trades
+
+Draft-pick trading is allowed. See @sec-trading-picks.
+
+### IFA Cap Space Trading
+
+Each team is assigned at least $4.75M in IFA cap space money for the following seasonal cycle after the conclusion of the just-completed NPL IFA period.
+
+Up to 75 percent of total IFA cap space can be *acquired* by a team. Clubs may trade away the entirety of their IFA cap space.
+
+Once standings are finalized, the worst 8 teams by record see their IFA cap space increased to \$5.25M. The middle 8 teams receive \$5M. See @tbl-IFA-cap.
+
+IFA cap space is acquired for one season only.
+
+### Financials
+
+#### Cash Considerations
+
+You may trade any amount of cash you have on hand, provided you actually possess the cash at the time. “The time” refers to the completion of transactions for the given time period. If additional moves in said time period reduce the amount of cash you have, the trade cannot be completed.
+
+#### Carried Salary
+
+##### Trading Players and Carrying Salary
+
+As part of any trade, clubs may agree to pay a portion of the salary of the player(s) involved, to be considered as Carried Salary. Those salaries remain on the liable teams’ financial ledger until completed in full.
+
+A team may include carried salary on options/opt-outs. Should those options or opt-outs remove any future salary obligation to the player, the carried salary is also wiped out in total.
+
+##### Carried Salary with Arbitration Salaries
+
+Trades that involve carrying arbitration salary are allowed; however:
+
+* You cannot trade arbitration salary that is unknown. In other words, they only time you can cover arbitration salary is in the offseason when the next year’s arbitration salary is known.
+* If the acquiring team ends up nontendering the player, any carried salary is also wiped out.
+* If the acquiring team ends up releasing the player during the termination pay window, the termination pay is paid by the original team provided the termination pay does not exceed the amount of carried salary.
+
+##### Carried Salary on Options and Non-Guaranteed Contracts {#sec-carried-options}
+
+Carried salary for options are allowed to be traded---should the option be declined, the original carried salary sum is removed from the books entirely.
+
+Carried salary for arbitration-eligible players are allowed to be traded---if the player is later non-tendered, the original carried salary sum is removed from the books entirely. Should the player later be released with termination pay, the termination pay is deducted from any carried salary first before the carried salary is removed from the books entirely.
+
+##### Carried Salary Not Tied to a Player
+
+Carried salary can also be traded independent of the player. The carried salary must already be on the books as a liability. All eligible liabilities are listed in the “Payroll Income and Expenditures” section of the roster sheet.
+
+Carried salary due to releases (see @sec-releases), death insurance policies (see @sec-death), or posting fees for international players may not be traded. However, salary from a MLB player who elected Article XIX-A free agency (which applies only to MLB players with veteran status who were outrighted during the season, remained on the 40-man, and then elected FA after the season, see @sec-xix-a) may be traded.
+
+::: {.callout-tip title="Example"}
+
+If Mike Trout was traded from the Angels to the Red Sox, and the Angels carried \$3,000,000 of his salary in 2018, the Yankees could acquire this \$3M salary responsibility in a trade before the end of the 2018 season.
+
+:::
+
+## Waivers {#sec-waivers}
+
+Any player under contract may be placed on waivers (“waived”) at any time outside of any Roster Freeze periods. Waivers are used to either remove a player from the 40-man roster or to trade after the July 31 trade deadline.
+
+During the NPL regular season, waivers are processed on Mondays with all other transactions. These waivers expire on Fridays at 1pm ET, allowing the original or acquiring team time to address the player’s status by the following Monday for games of that week. In the offseason, waivers are a full week (Monday-Monday) unless otherwise defined in the Deadlines section.
+
+If a waiver claim is made and it would send the claiming team over the salary cap, the claim is still granted, and the Club will be assessed a luxury tax.
+
+A player claimed on waivers in September (or otherwise acquired) is ineligible to be on the postseason roster which is filed on Labor Day. (But they can still help you win a playoff spot!)
+
+### Waiver Priority
+
+See the waiver types section below to understand who has rights to players on claim. The info that follows in this sentence serves as nuances on top of those rights.
+
+If two or more clubs with the same record make a claim, the records in the prior season (and so on) will serve as tiebreaker.
+
+During April of every regular season, waiver priority is determined by the previous year’s standings. From May on, current standings are used.
+
+### Waiver Types
+
+#### Outright Waivers (OR)
+
+A club asks for an outright assignment when it wishes to remove a player from its 40-man roster and assign the player to the minor leagues.[^2] Waivers priority is assigned to the team with the worst record, regardless of league.
+
+While on OR waivers, the player is removed from the team’s active and 40-man roster---but not 85-man---and cannot be traded until cleared. The only instance in which a player is not immediately removed from the team’s 40-man roster is when a team designates that distinction when waiving a 5+ MLS player (more details below will explain this). These waivers are irrevocable.
+
+Any club claiming the player assumes responsibility for all related outstanding financials pertaining to the player and must either:
+
+* Place him on its 40-man
+  * and active roster if the player is out of options
+  * and active roster or option to minors if he has options
+  * and put the player on the 7- or 14-Day Injured or Restricted List if eligible
+* Place him on Outright Waivers again immediately
+* Place him on the 60-Day Injured List if eligible^2^
+
+[^2]: Injured players are not allowed to go to the minor leagues and lose service time. If a team wants to place an injured player on OR to see if another player will claim on waivers, that is allowed. However, he will receive service time credit for the period of time he is on OR, and the waiving team still must retain him on the 40-man roster should he clear waivers.
+
+::: {.callout-tip title="Example"}
+
+A bench player on an active roster, John Doe has a \$5M salary for the current year and is placed on OR. If he clears waivers, Doe remains with his current team off the 40-man, still earning his salary and available to be purchased back onto the 40, and subsequently the active roster. If he is claimed, Doe heads to his new team’s 40-man roster and Active Roster unless/until the new team options, releases, trades, or waives him. The new club pays Doe’s \$5 million while the waiving club now has an extra $5M in salary cap space.
+
+:::
+
+#### OR Distinctions by Service Time
+
+The following rules and protocols will apply to players who clear outright waivers, according to their NPL service time and status (see @sec-service-time).
+
+##### Players with Veteran Status (5.000+ service time)---MLB Article XIX-A {#sec-xix-a}
+
+The player will decline his outright assignment and will not elect free agency, the common practice in MLB. In this case, the waiving team can either add the player back to its 40-man roster and place him “On Option/Reserve” in Triple-A or grant the player his unconditional release to free agency. The waiving team will make this decision when they are placing the player on Outright Waivers; if they elect to retain the player, the player will not be removed from 40-man rosters.
+
+If the player is placed “On Option/Reserve,” he will elect free agency at the conclusion of the regular season, regardless of any remaining contract or whether the team wants to place them back on the 40-man.
+
+Whether by being granted his unconditional release or electing free agency after the season, the waiving team will be responsible for the player’s entire contract until he is signed by another team, when it will still be responsible for his contract amount less the league minimum (or final bidding amount).[^3]
+
+::: {.callout-tip title="Example"}
+
+Following from the Outright Waivers example, Doe clears Outright Waivers but as someone with 7.106 days of service time, he declines his OR assignment but does not elect free agency. The team either keeps him on the 40-man roster in Triple-A, paying Doe his full salary until the end of the season when he will declare free agency. The team could also release Doe, freeing up a 40-man spot, kicking Doe to free agency. If another team signs Doe for the league minimum in free agency, the signing club pays only the league minimum while the waiving club pays the remainder of salary.^3^
+
+:::
+
+##### Players with 3.000+ Service Time---MLB Article XX-D {#sec-xx-d}
+
+Upon clearing waivers, the player will accept his outright assignment and elect free agency at the end of the regular season unless he is added back to the 40-man roster before the requisite deadline to do so at the conclusion of the regular season.
+
+If the player elects free agency after the season, the waiving team will be responsible for the player’s entire contract (if any remains) until he is signed by another team, when it will still be responsible for his contract amount less the league minimum (or final bidding amount). Should the contract have a club option at any point, the waiving team will pay the buyout in the year the buyout would be assessed.^3^
+
+[^3]: A vesting or player option keeps the waiving club on hook for both the buyout and option salary (minus the new club’s payment to the salary) until those options are resolved. If a vesting converts to a club option, the new club is responsible for the entirety of the club option salary should it get picked up.
+
+::: {.callout-tip title="Example"}
+
+Doe has 4.017 years of service. He clears Outright Waivers and stays with the team off-40 in Triple-A, being paid his salary. At the end of the season, the team can place him back on the 40-man roster (and go through arbitration) or grant him his unconditional release.
+
+:::
+
+##### Players with <3.000 Years Service Time
+
+Upon clearing outright waivers, these players will automatically accept their outright assignment.
+
+If their service time is below the NPL Super Two threshold for the following season, they will convert to Triple-A non-roster players after the end of the regular season, unless they have a guaranteed contract. If so, these players will stay on Assigned Outright, but do not need to be added back to the 40-man after the season.
+
+If their service time is at or above the NPL Super Two threshold for the following season, they will elect free agency under Article XX-D (previous section) unless added back to the 40-man roster upon the determination of the NPL Super Two threshold.
+
+### Unconditional Release Waivers
+
+In MLB, there are Release Waivers that a team must go through before they are released from a club. This was also the case in NPL through the 2016 season. It was discontinued in favor of a straight release to simplify the process. Please see @sec-releases to learn about releases.

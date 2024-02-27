@@ -1,0 +1,149 @@
+# Free Agency
+
+## In-Season Free Agency {#sec-inseason-fa}
+
+During the NPL regular season, NPL clubs may sign any free-agent players that have existing MLB service time to one-year contracts.
+
+There are only two exceptions in which a player may not sign as an in-season free agent:
+
+* Drafted in the current year’s MLB First Year Player Draft (even if they debut in the majors the same season, they cannot be signed)
+* Makes MLB debut in September (will join offseason free agency)
+
+The League Directors maintain an in-season spreadsheet that provides the following information:
+
+* Current in-season free agents broken down by
+  * Debuted in MLB that season
+  * Released in NPL that season
+  * General catch-all
+  * Retired/Foreign/”out of the picture” players
+* Players placed on waivers that week
+* Players with minor league opt-out contracts (see @sec-milb-contracts)
+
+Owners will have until Wednesday at 1PM to request free agents be added to the website auction for bidding through a form. (Requesting a player be posted on the blog does not mean you are required to bid on that player.) These players will go live on the website on Wednesday. Owners will have at least 24 hours  to bid until Friday at 1 PM.
+
+Bidding will work by proxy bidding (eBay style) and each team is only allowed to submit one bid. **Submission of more than one bid will incur penalties including the loss of draft picks.** Teams will submit their highest bid they are willing to spend on the player, and then the engine will post the lowest winning bid possible and raise your bid in increments until it hits your max high bid. If you post the same highest bid as another team, whoever posts the bid first will have rights to the player.
+
+Free agents will officially sign and process after Friday at 1pm ET, along with waiver placements/clears. Owners will receive an email from the website that they won the player, and can move forward assigning the player to their team and sending in any required additional transactions without waiting for the transaction report to come out. Players who do not receive a bid will expire and need to be renominated.
+
+### Foreign Player Movement to MLB
+
+In-season deals for foreign players who sign major-league contracts will be available for bidding immediately. Depending on the situation, the above process will be followed or there may be a special bidding process.
+
+## Off-Season Free Agency {#sec-FA}
+
+Each year, between November and March, clubs may sign free agents through the NPL Free Agency Signing Period (FASP). Free agents are defined as:
+
+* Players who have MLB service time (MLS) who are not on a NPL roster as of the conclusion of the regular season,
+* Players on NPL rosters who earn six or more years of MLS and are not under contract for the following season,
+* Any international free agent who signed a major-league contract,
+* Any major- or minor-league player with MLS who was granted free agency in the offseason through non-tenders (see @sec-nontenders), player opt-outs (see @sec-opt-outs), declined contract options (see @sec-contract-options), declaring free agency after being placed on outright waivers (see @sec-xix-a and @sec-xx-d), and any other form of removal from a NPL roster,
+* Any pre-existing free agent with MLS, and
+* Anyone who is not bound to any team but played in the MLB in the prior season at any time.
+
+The only exception to this rule is a player drafted in the most recent MLB Draft or part of the most recent International Free Agent Signing Period---even if they debuted during the season with service time, they must participate in the NPL Amateur Draft.
+
+A player with no MLS cannot be nominated as an off-season free agent. They are available in the Rule 4 Draft (see @sec-r4-draft).
+
+### Free Agency Bidding and Contracts
+
+Players signed through off-season free agency receive guaranteed contracts for at least one year at the league minimum, or nonguaranteed minor league contracts. Guaranteed contracts always beat nonguaranteed contracts.
+
+If signed by a team, players receive their existing service time and option status. For a player that has never been on an NPL Active Roster and/or debuted in MLB in the season that just concluded will receive zero years service time and three options. Exceptions are in place for players who come over from foreign leagues, and their situation and signed contract will dictate their situation in NPL on a case-by-case basis mirroring their real-life situation. Players posted from a foreign league who sign in NPL MLB free agency will become free agents at the end of their contract regardless of service time. Players with major-league contracts cannot be traded until June 1st of that year.
+
+If the high bid is not beaten during those windows, the club with the high bid submits the contract specifics for the winning point value, and the player will be added to the club’s roster. Offseason free agency works off a special points-based system. A tender spreadsheet is circulated by the League Office at the appropriate stage in the offseason that converts a year and dollar value contract into a points value. The point system is used in an auction bidding process on the NPL website to determine where free agents sign.
+
+All offers submitted to the website are irrevocable. The current bidding process consists of a three-day bidding window that is extended 24 hours with each subsequent bid if it is within 6 hours of expiration.[^1] This bidding process is subject to change and any details in this particular paragraph will be overridden by any communications from the League when free agency opens.
+
+You must submit a free agent tender sheet within 72 hours of the auction closing. The Directors may assess a 1 point per day penalty for contracts more than 72 hours delinquent.
+
+Teams are only permitted to sign three free agents to minor-league contracts per offseason.
+
+[^1]: Except for players on specific Qualifying Offer or player opt-out deadlines. These players receive a week’s window and must meet the minimum bid, otherwise they will return to their team via agreeing to the QO or keeping their contract.
+
+For more information on: the free agency bidding process, see (@sec-fa-process); website auction details, see @sec-website; and tender sheet information, see @sec-tender-sheet.
+
+### Free Agent Contract Limitations {#sec-FA-limits}
+
+The following rules govern free agency contracts:
+
+* There are minimum bids at various stages of free agency designed to have the top-tier free agents sign first. Follow the link to learn implications of minimum bids.
+* Salaries may not increase from one year to the next by more than 60%
+* Salaries may not decrease from one year to the next by more than -10%
+* No salary in a given year may be less than 50% of the average annual salary.
+* Signing bonuses cannot be for more than 25% of the AAV, and these bonuses must be paid within the first two years of the contract, with distribution up to the team owner.
+* No contract, including option years, may exceed eight years.
+  * Contracts greater than five years may only be signed after a specific point-value threshold has been crossed. This may vary by year to year and will be governed by the release of each year’s free-agent tender sheet.
+* Any contract greater than five years will include an automatic player opt-out clauses after the fifth year. These opt-outs will function as Player Options.
+* The final 2 years of any contract greater than five years cannot exceed by more than 25% the value of the first 2 years of the contract.
+
+### Contract Options
+
+See @sec-guaranteed-contracts for information on contract terminology.
+
+Only one option can be offered to a free agent. All buyouts are paid for with cash reserves.
+
+Should you sign a player with a vesting offer, the qualifier needed for the player’s contract to vest will be negotiable based on the history of the player.
+
+### Offseason Free Agency Process {#sec-fa-process}
+
+#### Submitting Nominations
+
+Teams submit nominations of free agents to bid on to the Free Agent Nomination form. There is no limit to nominations you can send, but be mindful that you are committed to signing the player you personally nominate (first-come, first-serve on who nominated the player) during the bid minimum window.
+
+Each day, no more three players will be available in the auction starting at noon. These players may be players that were nominated the day before, or even earlier. If there are many nominations, it will take time to sift through, but what will not change is the maximum amount of players that are newly available for free agency in a given day: three. There can be less depending on nomination activity.
+
+No new free agents will be posted on Saturdays and Sundays.
+
+#### Bidding Timeline
+
+A player’s initial **posting** (not bid) opens a four-day window for bidding.
+
+* Those who nominate a player during the minimum bid window win the player if there are zero bids in the four-day window. The minimum bid will not be posted as a bid on the site. They, and all other teams, are welcome to bid the minimum as the first bid.
+* Once there are 24 hours from the prior bid left at/after the end of the four-day window, any new bid will trigger an automatic extension of 24 hours.
+* The 24 hours is appended to however much time was left on the player’s timer, whether 23 hours left or 10 minutes left.
+
+At the conclusion of bidding, GMs must submit a legal tender sheet to NPL within a week of signing the player.
+
+#### Bid Minimums
+
+There are bid minimums to the amount of points you are allowed to offer at certain points of the calendar year. This ensures that the top-ranked free agents will have more of an opportunity to sign before lower-ranked free agents. This allows teams to pivot more easily to Plan Bs. The offseason calendar will have information on bid minimums.
+
+Teams are responsible for signing players to the bid minimum that they nominate (first-come, first-serve on nominations) should no bids be received for the player in the bid minimum window. Teams will not be informed whether they hold the bid minimum rights.
+
+No minor league contracts are allowed until a later date in free agency and are capped at 9.9 points. (Major league contracts start at 11 points.) 
+
+::: {.callout-important}
+
+Bidding windows now open on when the player is posted on the site, **not** the timestamp of first bid. 
+
+:::
+
+### Tender Sheet {#sec-tender-sheet}
+
+All bidding and contract finalization is done through the tender sheet.
+
+The tender sheet has restrictions around its use, governed by the free agency rules. If a bid is illegal in certain ways, a red flag (literally) will pop up and let you know.
+
+### Bidding Amounts
+
+#### Major League Bidding Process
+
+The league minimum bid is 11 points, which correlates to the league minimum salary for the current year. You may only bid in whole numbers with no decimals.
+
+::: {.callout-tip title="Examples"}
+
+**Correct**: 11, 48, 173  
+**Incorrect**: 11.5, 48.3, 173.1
+
+:::
+
+#### Minor League Contract (MLC) Bidding Process
+
+MLCs are in decimal format, with 0.1 points bid equal to one year at the league minimum. The Tender Sheet has a section for you to calculate point values. The maximum MLC bid you can offer is 9.9 points, and you cannot go deeper tenths of a point for a bid.
+
+::: {.callout-tip title="Examples"}
+
+**Correct**: 0.1, 3, 7.7  
+**Incorrect**: 0.1001, 3.13, 7.777
+
+:::

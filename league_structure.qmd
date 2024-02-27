@@ -1,0 +1,135 @@
+# League Structure
+
+## Deadlines
+
+### NPL Transactions
+
+Transactions for the week’s cycle are due every Monday to the NPL League Office by 1pm ET. These transactions must tie out exactly with your Scoresheet transactions. If they do not, your transactions will be voided. For each transaction that does not correlate with Scoresheet, your team will be fined $100,000.
+
+* For moves you make on Scoresheet that do not correlate with NPL, the NPL rosters will be updated to reflect the correct transactions.
+* For moves you make in NPL that you do not do so on Scoresheet, the NPL rosters will be updated to reflect the correct transactions, but the Scoresheet rosters will not---and you must still make the moves in Scoresheet.
+
+::: {.callout-tip title="Example"}
+You decide to option Mookie Betts and recall David Freese. You make the moves on Scoresheet but do not do so in NPL. The moves will be executed on the NPL rosters and you will be fined $200,000 (Betts option; Freese recall).
+:::
+
+### Scoresheet Transactions
+
+Edits to your Scoresheet roster may be made up until five minutes before the first game that Monday (which on occasional Mondays will be prior to the 1pm ET transaction deadline).
+
+While you do not need to make Scoresheet moves by the 1pm ET NPL deadline, they will be voided out if no moves have been made on Scoresheet. If your transactions are submitted to Scoresheet but miss the weekly Scoresheet deadline, you will have to play the games of the week with your previous week’s roster---but your NPL transactions will have still taken effect and cannot be reversed.
+
+### Transactioners
+
+There are several owners in NPL who also double as transactioners. Transactioners are responsible for reporting transactions to the league and ensuring Scoresheet correlations by Wednesday evening. To communicate with transactioners on questions, email [npltransactions@gmail.com](mailto:npltransactions@gmail.com).
+
+## Regular Season
+
+Each of the 24 NPL clubs plays a 162-game interleague regular season league-weighted schedule. AL teams will play AL teams more often, but teams will play games against every team in the league; they just will play a few more games against teams in their own AL or NL league.
+
+The 24 clubs are divided into two leagues of 12 clubs each, with both leagues using a designated hitter (DH). The 12 clubs in each league form three divisions of four clubs, the structure of which can be found here.
+
+The NPL regular season begins the same week as the MLB season and concludes one day the same week as the MLB season.
+
+A player’s playing time and statistics generated any given week will impact the team’s performance that given week in Scoresheet.
+
+NPL divisions will be realigned every two offseasons, beginning before the 2022 season.
+
+## Postseason
+
+Three division winners plus two Wild Card teams from each league qualify for the postseason.
+
+The two Wild Card teams are the non-division winners with the best records in each league. They play a seven-game playoff series to determine the winner of the wild card.
+
+The winner of each wild card game advances to play in the best-of-seven Division Series round and will play the best overall division winner. Clubs that advance in the Division Series round compete in a best-of-seven League Championship series. Finally, the two league champions collide in the best-of-seven World Series.
+
+### Postseason Eligibility
+
+Given the mechanics of how Scoresheet manages playoffs, NPL is unable to accurately mimic MLB rules for the postseason. As a result, please refer to the Scoresheet playoff explanation to understand who is eligible for the playoffs.
+
+Additionally, a player who received a Performance Enhancing Drug Suspension prior to the start of Spring Training, during Spring Training, during the regular season, or during a post-season series (Wild Card, LDS, LCS, or World Series), is ineligible to play in any NPL or minor league post-season game(s) or series in that season, even if the player has completed serving the suspension.
+
+### Postseason Rosters
+
+Due to differing mechanics from Scoresheet and NPL in how postseason rosters are governed, you must follow the outlined steps below in order to effectively reflect a postseason roster that is how you want it. Any lack of following these steps will result in your regular season lineup, the same week postseason rosters are due being used instead of your playoff-specific lineup.
+
+* There is no change in managing your lineup for the regular season. Manage it as you have been managing them all season through the normal add/drop process, etc.
+* If you wish your playoff roster lineup to be the same as the regular season lineup, there is no further action you need to take.
+* If you wish to submit a different playoff roster lineup than the regular season lineup, you must do the following:
+  * Click the link at the top of your regular season lineup that states “If you want to create or edit a separate lineup card that will ONLY be used for the playoffs, then click here.”
+  * You will be presented with your rosters as it currently stands for the regular season. To make changes you will not be using the regular add/drop process! The add/drop process for the playoff roster is below, and you will need to know where the add field is in the playoff roster lineup:
+  * Below the farm section for hitters/pitchers respectively is a note that states: “If you own a position player not listed above (for instance from a private draft that hasn’t been entered yet) and you want to use him on your lineup, then type his player number or name here.”
+* Here is the playoff add/drop process:
+  * ADD: Use the box below the farm sections to add your playoff-specific players that are not currently on your playoff roster.
+  * DROP: You will not be actually dropping anyone from Scoresheet. Anyone that does not make your playoff roster should be sent to the farm, not dropped. Be sure that you still maintain an active roster of 30.
+* Submit the playoff-specific roster to Scoresheet, then send an email to [npltransactions@gmail.com](mailto:npltransactions@gmail.com) detailing:
+  * Each player you have placed on your farm. The NPL office will bundle all these details from all teams and send to Scoresheet, who will then formally manage dropping these players from your playoff roster. These players will not be formally dropped on your NPL team at the end of the season, as the process governing active playoff lineups differs from the regular season---anyone who does not make your playoff roster that stays on your regular season roster will not be optioned/placed on the IL/etc.; so they still count to the 40-man, even if they are impending free agents!)
+  * Each player you added to your playoff roster that is not on your regular season roster, along with the transaction that you want executed for these players after the final week of the regular season. At the end of the regular season, the transactions will then be formally executed for anyone who still is not in the major leagues. (If you add someone that fits in this category to your regular season lineup in the intervening weeks, then the transaction for that player at the end of the season will be ignored.)
+
+::: {.callout-tip title="Example"}
+
+* Barry Bonds is currently on the Injured List and Pedro Martinez is currently in Double-A on an off-40 contract, so they are not on the regular season roster, but Team 1 wants them on the playoff roster.
+* Team 1 submits a special playoff-only lineup through Scoresheet where they add Bonds and Martinez to the lineup card through the box under the farm teams. They place Bobby Abreu and Paul Byrd on the farm.
+* Team 1 submits their regular season lineup to Scoresheet that has Bonds and Martinez not on the roster, and Abreu and Byrd on it.
+* Team 1 emails NPL stating that Bonds (activated from IL) and Martinez (contract purchased) are on the playoff roster, and Abreu and Byrd are not on the playoff roster.
+  * The team is at a full 40-man, so they email in a corresponding transaction to be executed at the time Martinez is purchased: release Jose Canseco.
+* Team 1 plays the regular season week (and future weeks) with Abreu and Byrd as active players. NPL office shares the postseason drops with Scoresheet, who then drop Abreu and Byrd from the playoff roster lineup only, not the regular season lineup.
+* In the middle of September, Team 1 activates Bonds from the IL and places him in the regular season lineup.
+* At the end of September, NPL directors review the team status. Bonds’ pending activation from the IL is negated; it already happened. Directors process adding Martinez to the 30- and 40-man and release Canseco. No action is taken with Abreu and Byrd’s status on the active roster.
+
+**NOTE:** If Team 1 did not have a full 40-man roster at the time of setting the playoff lineup and thus did not submit a corresponding move for Martinez, but during September ended up with a full 40-man roster, they must follow-up with the league with a corresponding 40-man move for Martinez, otherwise the team will be subject to penalties for going over on the 40-man.
+
+:::
+
+## Gameplay
+
+NPL uses the [Scoresheet](https://www.scoresheet.com/BB_index.php) platform as its game engine and is subject to all Scoresheet rules as relate to actual gameplay (but not roster construction). All Scoresheet information and rules can be found on its website.
+
+During the regular season, all NPL transactions are due by 1pm Eastern on Monday. For lineup settings on Scoresheet, you have until just before the first MLB game of the day Monday. Please note that there are a couple times where games are earlier than 1pm, and sometimes there will not be games until nighttime. The NPL transaction deadline of 1pm never changes.
+
+## NPL Website {#sec-website}
+
+### Website Details
+
+#### Logging In
+
+To log in, go to <http://nationalpastime.org/wp-login.php>. Your username is your full team name, all lowercase. For your password:
+
+* the first-listed GM of each new team will have received an email from the website with login details. Spam should be checked if no email was received.
+* pre-existing clubs should use the same login information as last year.
+
+#### Making a bid
+
+Once you are logged in, you can go to the free agency page and find your player to bid on. Click the player’s name, put your point value in the appropriate window and we’re off to the races.
+
+Keep in mind that you have the ability in this platform to rebid. If you bid 20 points and change your mind later and want to bid 22, you are able to do that.
+
+### Anonymous Bidding
+
+You will not be able to see who has bid what in the past---only the current high bid. All bids are tied to the correct team in the backend for the league to know who has won the player.
+
+Given the nature of anonymous bidding, if you do not remember what your last bid was and/or if it is the high bid, you should be careful to make sure you are not bidding against yourself. That is where the FASP dashboard comes in handy for your bid history.
+
+### Countdown Timer
+
+Each player has an automatic countdown timer, which is shown on each player's auction page and on the main bidding page.
+
+#### Categories
+
+Each player is categorized as either Free Agent or International Free Agenct to make it easier once IFA begins.
+
+#### Bid Status Tracker
+
+There are tabs just above the nominated players where you can flip around and see players who are about to expire, those who just expired, and more.
+
+### FASP Dashboard/Watchlist
+
+Any player you are bidding on and want to keep track of can be added to your personal watchlist by clicking his name as if you were going to bid on him, then selecting “Add to Watchlist.” You can find your watchlist in the FASP Dashboard.
+
+The FASP Dashboard allows you to see the following: all of your active bids, bids that you successfully won (or lost), and the watchlist. What the watchlist does is essentially allow you the ability to look at a glance what the high bid is on a player.
+
+### Notifications
+
+You will receive email notifications confirming your activity in the auction. Please check spam first before reporting issues receiving them.
+
+For more information on: the free agency bidding process, see (@sec-website); free agency rules, see (@sec-FA); or tender sheet information, see (@sec-tender-sheet).

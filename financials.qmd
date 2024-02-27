@@ -1,0 +1,192 @@
+# Financials
+
+## Major League Payroll
+
+Major League Payroll, often simply referred to as “cap space” in NPL, is the amount of total salaries you have committed to your players and liabilities for any given season.
+
+The payroll maximum changes each year based on the average MLB Opening Day payroll from the prior season plus a yearly inflation percentage of 8%, the approximate average MLB inflation from 2011-2017. The cap can never decrease; should the average MLB payroll plus inflation rate result in a lower number than the current NPL cap, the current NPL cap number will remain in effect.
+
+If teams go past the maximum payroll, they are subject to a luxury tax.
+
+::: {.callout-tip title="Example"}
+
+If the 2018 average MLB payroll is \$140,000,000, the 2019 NPL payroll would be:
+
+$\$140,000,000 * 1.08 = \$151,200,000$
+
+:::
+
+The following factors may contribute to the payroll, either as income or expenditures, thereby impacting the funds available for major league salaries.
+
+### Salaries
+
+Salaries are the main liability that count against your salary cap. For more information, see: 
+
+* Guaranteed salary (@sec-guaranteed)
+* Non-guaranteed arbitration salary (@sec-three-plus-contracts and @sec-super-two)
+* Non-guaranteed pre-arbitration salary (@sec-prearb-contracts)
+
+### Carried Salary
+
+NPL clubs can be liable for salaries of players no longer on their team, either via trading the player and assuming some contract coverage, releasing the player, or trading for another team’s carried salary.
+
+### Liabilities
+
+Should a club exhaust and show a deficit in its Cash Reserves (@sec-cash-reserves), the club will “borrow” funds from the major league payroll to cover the liabilities. More information in the link.
+
+This expense will be reflected in the Other MLB Payroll Income & Expenditures section under the term “Liabilities” and will be equal to the Cash Reserves deficit in the given year.
+
+### Retirement, Foreign, Deaths
+
+Retired players and players that play in a foreign league do not have their contracts forgiven. However, these players will not count towards any roster total.
+
+Deaths result in the team paying 25% of the annual salary each year of the original contract.
+
+## Cash Reserves {#sec-cash-reserves}
+
+### What are Cash Reserves?
+
+Separate from payroll, NPL clubs have a Cash Reserves fund. Cash Reserves may be carried over from year to year and there is no maximum limit to cash you own. The biggest thing that cash reserves do is impact your FYPD and IFA budget.
+
+### Cash Deficits
+
+Click here to read about what happens if cash reserves go into the negative.
+
+### How Cash Reserves are Spent
+
+* Buyouts of contract options (@sec-contract-options)
+* Signing bonuses in free agency (@sec-FA-limits and @sec-tender-sheet)
+* First Year Player Draft signing bonus overages (@sec-draft-bonuses)
+* International Free Agency signing bonuses (@sec-IFA-bonuses)
+* Trades (@sec-what-can-be-traded)
+* Penalties (@sec-penalties)
+* Payment of luxury tax or cash deficits (@sec-lux-tax-deficits)
+
+### How Cash Reserves are Acquired
+
+* Annual infusion from the league to match IFA allotments: \$5.75 million for bottom eight finishers, \$5.25 million for middle eight finishers, and \$4.75 million for top eight finishers (@sec-IFA-bonuses)
+* First Year Player Draft signing bonus underages (@sec-draft-bonuses)
+* Trades (@sec-what-can-be-traded)
+
+## Luxury Tax and Cash Deficits {#sec-lux-tax-deficits}
+
+### What is a Luxury Tax?
+
+The luxury tax is a surcharge put on the total payroll of a team inn the instance of it exceeding the salary cap amount for the season. The tax is assessed at a 1:1 ratio and drawn from cash reserves.
+
+If you are able to reduce your salary cap in season, you will not be assessed additional luxury tax penalties unless you go beyond the tax you have already paid for.
+
+::: {.callout-tip title="Example"}
+
+The 2015 salary cap was \$125 million. If a team has exactly that amount and acquires a player they must pay \$1 million to, they are taxed \$1 million cash.
+
+:::
+
+### Luxury Tax Limit
+
+A club can only go past the salary cap the amount they possess in cash reserves.
+
+::: {.callout-tip title="Example"}
+
+A club has \$5 million in cash reserves during a year where the salary cap is \$130 million. If they do not acquire additional cash, a team may never have a payroll greater than \$135 million.
+
+:::
+
+Any transaction that violates this stipulation will not be allowed to process. If penalties cause this to be violated, a triple salary-cap hold will be placed on next season’s salary for the amount of the violation.
+
+### Tax Timing
+
+#### Offseason
+
+From the conclusion of the NPL regular season until Opening Day, no luxury tax is assessed and payroll is not tracked. Remember that your payroll reflects the full balance of all your current players and expenditures. Some players are guaranteed, and some may be released with partial pay in the offseason. Always keep a good note of your team’s accounting.
+
+See: 
+
+* Guaranteed salary (@sec-guaranteed)
+* Non-guaranteed arbitration salary (@sec-three-plus-contracts and @sec-super-two)
+* Non-guaranteed pre-arbitration salary (@sec-prearb-contracts)
+
+#### Regular Season
+
+Starting on Opening Day, any luxury taxes will be assessed immediately, and then for each in-season transaction that increases the cap.
+
+Example: If your opening day payroll is \$4,000,000 above the cap you will pay a \$4,000,000 tax from cash reserves that week. If you add a player making \$1 million in June on top of that, you will pay a \$1 million cash tax.
+
+### Cash Deficits
+
+You may not make any type of transaction that causes your Cash Reserves (@sec-cash-reserves) to operate at a deficit in-season without incurring a penalty. In the offseason, you have until Opening Day to solve any cash deficits before incurring penalties – however, a deficit cannot be created due to draft pick bonuses after the bonus pool rounds. (So you can only create a deficit in the off-season with option buyouts, trades, International Free Agency, and penalties, essentially.)
+
+Should a club exhaust all of its Cash Reserves, it will be forced to borrow funds equal to the deficit from its MLB Payroll for that season, as well as paying out of the following year’s cash reserves.
+
+## Penalties {#sec-penalties}
+
+There are three types of penalties: transactional penalties and inactivity, injured list, and anti-tanking penalties.
+
+### Transactional Penalties
+
+There are two types of transactional penalties: missing deadlines or recording incorrect transactions.
+
+#### Deadline Penalties
+
+Should you miss a key deadline to perform some type of transaction (decline a club option, etc.) and you wish to do execute the transaction after the fact, it will be the discretion of League Directors whether to allow the club to put a transaction through.
+
+There are some deadlines in which the league will not be able to grant exemptions, but the league will be fair in its assessment. If it is possible to allow the club to submit a transaction to fix the issue without an adverse impact on the rest of the league, another team, or in upkeep of the league, it will be allowed.
+
+Every single transaction that is allowed to occur after a deadline will result in $200,000 being taken out of cash considerations. Should a fine result in a negative cash balance, the owner will select whether to continue with the cash fine, or to have the fine taken out of the current year’s cap space plus next year’s cash balance.
+
+#### Incorrect Transactions
+
+Should an owner submit an incorrect transaction to the league (including trades) that result in some type of illegal move (more than 85 players, 40 players, etc.) the league will fine the team $100,000 for each individual transaction.
+
+It is at the discretion of the League Directors whether to assess this fine.
+
+As a general rule, offseason indiscretions are more forgiving. In-season transactions adversely impacting the Active Roster not always being at 30 will never not result in a fine.
+
+### Injured List Penalties
+
+Once a player is activated in MLB, NPL owners have an entire Scoresheet cycle to activate the player. It is incumbent on the owners to activate the player on its own; NPL ambassadors will not inform teams of eligibility.
+
+* The penalty for past-due activations is $200,000 in cash considerations per Scoresheet cycle for 14-day IL overstays.
+* The penalty for 56-day IL overstays is $300,000 in cash considerations per Scoresheet cycle.
+* Players that were placed on the End of Season IL that end up returning to action:
+  * MLB action: Automatic placement on 14-day IL for the rest of the season. You cannot activate the player. If you go over on the 85- or 40-man roster as a consequence, you must release someone.
+  * Minors action (including rehabilitation assignments): Automatic placement on 56-day IL for the rest of the season. You cannot use the player. If you go over on the 85-man roster as a consequence, you must release someone.
+  
+### Inactivity & Anti-Tanking Penalties
+
+In order to encourage activity, promote realism and prevent tanking, there are penalties for not keeping a team honest in healthy, MLB players. This is tracked through Scoresheet’s usage of AAA players. AAA players are used by Scoresheet only when there is not enough at-bats or innings pitched to cover a team’s needed statistics for the week.
+
+#### Penalty Amounts
+
+##### Pitching
+
+All teams get 250 IP of AAA pitching before penalties kick in, which is $200,000 per 100 IP over 250 IP.
+
+##### Hitting
+
+All teams get 400 AB of AAA hitting before penalties kick in, which is $200,000 per 100 AB over 400 AB.
+
+::: {.callout-tip title="Examples"}
+
+Team A has 249 IP of AAA pitching. NO PENALTY  
+Team B has 299 IP of AAA pitching. \$200,000 PENALTY  
+Team C has 351 IP of AAA pitching. \$400,000 PENALTY (\$200,000 if had pitched 1 IP less) 
+Team D has 780 IP of AAA pitching. LOSS OF FIRST ROUND (\$1M value) & \$200,000 PENALTY (1M through 750 IP, \$200K for the 80 IP above 750)  
+
+:::
+
+These amounts offer a lot of leeway. As long as a team stays active and does their best to staff a full roster, they will not have any trouble either not receiving a penalty or at the very least, receiving only a nominal penalty.
+
+#### Caps to Penalties
+
+Penalties come out of cash reserves until \$1 million is hit. Once the \$1 million mark is surpassed by any amount whatsoever, the following process occurs in addition to losing \$1 million:
+
+1. The earliest draft pick of the team is removed (always 1st round to start)
+2. If the pick has already been traded, the team will lose their 2nd and 3rd round pick, unless they do not have any of these picks in possession.  If they hold multiple picks in a round, it is always the last pick. If they have one of the picks but not both, the pick in possession is forfeited in addition to the following year’s pick in the needed round.
+3. If a club is unable to meet the above two conditions, they will lose their first-round pick from the prior season. If that first-round pick is no longer in the organization or was used by another team, their first-round pick in the following season will be removed. Teams will also be banned from signing any Qualifying Offer free agent if they lose a draft pick that could be lost through a QO.
+
+If the owner committing the penalties does not return for the following season, only the cash penalty is assessed, not draft pick penalties. However, the cap will not be \$1 million in cash reserves in this instance, it will be \$2 million.
+
+The Directors reserve the right to waive or modify penalties in extreme circumstances, e.g. clear attempts to avoid draft pick penalties that were met with bad luck or hardship.
+
+
