@@ -18,7 +18,7 @@ Should the player return to MLB prior to his NPL contract being up, he will imme
 
 ### Retirement
 
-If a player retires in real life and is under contract in NPL, the owning team must continue to pay the player the contract owed. He will be placed in the “retired” section of the team, and will not count against either the 25-, 40- or 85-man roster restrictions. He is eligible to be traded at any point. Should the player return to MLB prior to his NPL contract being up, he will immediately be restored to active status, which may dictate a corresponding move by the club to clear roster space.
+If a player retires in real life and is under contract in NPL, the owning team must continue to pay the player the contract owed. He will be placed in the “retired” section of the team, and will not count against either the 30-, 40- or 85-man roster restrictions. He is eligible to be traded at any point. Should the player return to MLB prior to his NPL contract being up, he will immediately be restored to active status, which may dictate a corresponding move by the club to clear roster space.
 
 ## Injured List {#sec-IL}
 
@@ -32,7 +32,7 @@ IL stints cannot be retroactive/backdated in NPL, unlike in MLB.
 
 ::: {.callout-important}
 
-It is absolutely incumbent on the NPL club to track a player’s IL status in MLB/NPL. The NPL League Office maintains a “Injured List Tracker” on the Rosters workbook to display when a player can come off the IL and whether there are penalties incurred. No attempt will be made by the League Office to inform the team when a player is active, or if penalties are incurred.
+It is absolutely incumbent on the NPL club to track a player’s IL status in MLB/NPL. No attempt will be made by the League Office to inform the team when a player is active, or if penalties are incurred.
 
 :::
 
@@ -160,7 +160,9 @@ Should you take no action, the default is that a team chose to tender the player
 
 In the offseason, deadlines are provided that will allow for either 30- or 45-days termination pay leading up to Opening Day for players on nonguaranteed contracts (see @sec-arb-contracts and @sec-prearb-contracts).
 
-The releasing club will pay the prorated 30 or 45-day termination pay via cap space to the player as a cost of releasing the club of its obligation of the full salary. If a eligible player is injured during the termination window and released, his full salary is paid out instead of termination pay. If an eligible player is injured before the termination window and released during the termination window, he may be eligible for termination pay subject to discussion with the Directors.
+The releasing club will pay the prorated 30 or 45-day termination pay via cap space to the player as a cost of releasing the club of its obligation of the full salary. During the 30-day termination pay window, the team will owe $30/187 * Salary$; during the 45-day termination pay window, the team will owe $45/187 * Salary$.
+
+If a eligible player is injured during the termination window and released, his full salary is paid out instead of termination pay. If an eligible player is injured before the termination window and released during the termination window, he may be eligible for termination pay subject to discussion with the Directors.
 
 ## Restricted List
 
@@ -279,7 +281,8 @@ What cannot be traded includes, but may not be limited to:
 * Cash considerations greater than one year ahead
 * Draft picks for future drafts (only picks for the next upcoming draft may be dealt)
 * Future IFA cap space 
-* Future players outside the PTBNL window.
+* Future players outside the PTBNL window
+* Promises to bid or not bid in free agency
 
 :::
 
