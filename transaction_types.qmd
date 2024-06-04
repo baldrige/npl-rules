@@ -24,7 +24,7 @@ If a player retires in real life and is under contract in NPL, the owning team m
 
 Only major-league players on an MLB injured list may be placed on a NPL injured list (see Exceptions below). There is no IL in the offseason---placement begins at a determined date in March and lasts through the regular season.
 
-Any injured list stint in MLB automatically disqualifies the player from being sent to the minor leagues or released in NPL.
+Any injured list stint in MLB automatically disqualifies the player from being sent to the minor leagues in NPL.
 
 If a player is transferred from a prior IL list to one with a greater minimum stay limit, the time spent on the prior IL counts towards the minimum period.
 
@@ -135,8 +135,6 @@ The following governs a player’s option status if released prior to the option
 * Player option or opt-out: future salaries remain on the books of the releasing team, and accordingly decreased by the amount of the player’s salary in that given year if he signs with a team.
 
 If the player is signed in the future by another team, the salary that the new team signs the player for will be credited to the original releasing team if the original contract remains in effect up to the value of the respective years in the original contract.
-
-Releases are subject to the player’s IL status (see @sec-IL).
 
 #### Minor League Contracts
 

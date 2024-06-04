@@ -156,26 +156,28 @@ Once a player is activated in MLB, NPL owners have an entire Scoresheet cycle to
 
 In order to encourage activity, promote realism and prevent tanking, there are penalties for not keeping a team honest in healthy, MLB players. This is tracked through Scoresheet’s usage of AAA players. AAA players are used by Scoresheet only when there is not enough at-bats or innings pitched to cover a team’s needed statistics for the week.
 
-#### Penalty Amounts
+#### Pitching
 
-##### Pitching
+Penalties begin accruing when teams exceed 250 AAA IP. A \$200,000 penalty is assessed at 250.1 AAA IP, and additional \$200,000 penalties are assessed for each 100 additional AAA IP.
 
-All teams get 250 IP of AAA pitching before penalties kick in, which is $200,000 per 100 IP over 250 IP.
+#### Hitting
 
-##### Hitting
+Penalties begin accruing when teams exceed 550 AAA AB.  A \$200,000 penalty is assessed at 551 AAA AB, and additional \$200,000 penalties are assessed for each 150 additional AAA AB.
 
-All teams get 400 AB of AAA hitting before penalties kick in, which is $200,000 per 100 AB over 400 AB.
+##### Penalty Amounts
+
+Teams forfeit their first-round Rule 4 draft pick when their combined AAA pitching and hitting penalties exceed \$1,000,000. In such cases, \$1,000,000 will be deducted from the penalty amount.
 
 ::: {.callout-tip title="Examples"}
 
-Team A has 249 IP of AAA pitching. NO PENALTY  
-Team B has 299 IP of AAA pitching. \$200,000 PENALTY  
-Team C has 351 IP of AAA pitching. \$400,000 PENALTY (\$200,000 if had pitched 1 IP less) 
-Team D has 780 IP of AAA pitching. LOSS OF FIRST ROUND (\$1M value) & \$200,000 PENALTY (1M through 750 IP, \$200K for the 80 IP above 750)  
+249 AAA IP or 549 AAA AB: no penalty  
+250.1 AAA IP or 551 AAA AB: \$200,000 penalty  
+650.1 AAA IP or 1151 AAA AB: \$1,000,000 penalty  
+750.1 AAA IP or 1301 AAA AB: Loss of first-round pick & \$200,000 penalty  
+250.1 AAA IP and 551 AAA AB: \$400,000 penalty  
+450.1 AAA IP and 851 AAA AB: Loss of first-round pick & \$200,000 penalty  
 
 :::
-
-These amounts offer a lot of leeway. As long as a team stays active and does their best to staff a full roster, they will not have any trouble either not receiving a penalty or at the very least, receiving only a nominal penalty.
 
 #### Caps to Penalties
 
