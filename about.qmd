@@ -43,3 +43,40 @@ The Rules Committee may propose an Emergency Rule Change at any point to address
 #### Executive Rule Changes
 
 The Rules Committee has the power to institute Executive Rule Changes at any point in the season in situations where the committee deems it appropriate. Oftentimes, these rule changes are either transactional in nature, must be altered to meet new MLB CBA rule changes, and/or are “common sense” changes. Executive Rule Changes requires 90% of the league to vote to reverse it, with a quorum met.
+
+## League Fees
+
+League fees of $200 every year for the right to own and operate a team for the following season.
+
+$79 of the league fees go to Scoresheet for game-engine operations, while $20 is designated for the operations fund. The operations fund helps maintain upkeep of the website, plus additional enhancements that benefit the league. $101 of the fees go to a prize pool.
+
+The money comes out of either previous year winnings, any positive balance remaining from previous payments, or a payment made directly to NPL. Instructions on how to pay are communicated each year. Presently, payments are accepted only via PayPal (no fees from PayPal allowed, or send enough to cover fees), Venmo, and Square.
+
+### Timing
+
+League fees can be paid at any point, but due by the end of October. This date ensures that we have active owners for each team leading into offseason that directly impacts the following regular season.
+
+Should an owner not pay the league fee by the end of October and has not informed the league of their departure, the rosters of the unpaid teams will be frozen. What this means is that no action can be taken by the owner until he/she has paid: no trades, no transactions, nothing of the like—even if it means they miss the deadline to perform a transaction.
+
+Additionally, unpaid teams are considered vacant and will be replaced without communication (and payment) from the owner. If a new owner is found, payment must be received first before they are announced to the league and can partake in any transactions.
+
+### Winnings
+
+The prize pool is broken down as such:
+
+* Wild Card Losers(2): $50.00
+* Wild Card Winners (2): $100.00
+* Division Winners (6) $200.00
+* Pennant Losers (2): $40.50
+* Pennant Winners (2): $121.50
+* World Series Winner (1): $600.00
+
+This means the maximum an organization can win each year is $921.50: Division Winner, Pennant Winner, World Series Winner.
+
+### Paying Out
+
+Winnings are paid out to league fees first before being distributed via the medium of the league’s choosing. Meaning, each team will have their prior year’s winnings removed from their league fee balance first before pay out.
+
+Any outstanding balance remaining on league fees after this is applied must be paid by the owner. Any overage (so anyone who made the Championship Series in each year) will be paid out to owners once all league fees have been paid in.
+
+Owners have the ability to leave any winnings with the league and have it apply to future year payouts.
