@@ -6,7 +6,7 @@ title: "About"
 
 The National Pastime League (NPL) was founded in February 2015 by Evan Brunell (Defenestrations of Prague) and Gerald Andriole (former owner, MIT Beavers).
 
-The current NPL directors are Jarrett Seidler (Asbury Park Bosses), Michael Sarinsky (Hunter Gatherers), Tommy Bennett (Los Angeles Bulldog), Chris Fargis (Brooklyn TOOTBLANs), Bret Sayre (Cheesequake Cheddar), and Daniel Rathman (Defenestrations of Prague).
+The current NPL directors are Jarrett Seidler (Asbury Park Bosses), Tommy Bennett (Los Angeles Bulldog), Chris Fargis (Brooklyn TOOTBLANs), Bret Sayre (Cheesequake Cheddar), Lukas Vlahos (New York Valkyries), and Wes French (Midwest Ducksnorts).
 
 Before founding NPL, Evan and Gerald were members of the Big Show League, part of Reality Fantasy Baseball. Big Show League was in operation for many years, with the most recent iteration born in 2006. Using RFB’s proprietary engine, Big Show was designed to mimic MLB as closely as possible for the most realistic fantasy baseball experience possible.
 
@@ -51,6 +51,8 @@ League fees of $200 every year for the right to own and operate a team for the f
 $79 of the league fees go to Scoresheet for game-engine operations, while $20 is designated for the operations fund. The operations fund helps maintain upkeep of the website, plus additional enhancements that benefit the league. $101 of the fees go to a prize pool.
 
 The money comes out of either previous year winnings, any positive balance remaining from previous payments, or a payment made directly to NPL. Instructions on how to pay are communicated each year. Presently, payments are accepted only via PayPal (no fees from PayPal allowed, or send enough to cover fees), Venmo, and Square.
+
+If an existing owner develops an unavoidable professional conflict of interest, the directors may choose to waive the portion of annual dues that contributes to the prize pool and declare that team exempt from prizes for the duration of the conflict of interest in lieu of that owner leaving the league.
 
 ### Timing
 

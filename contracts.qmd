@@ -10,7 +10,7 @@ Any extensions signed by the player results in guaranteed salary.
 
 ### Service Time
 
-Any player who receives votes for AL or NL MVP or Cy Young, makes the MLB All-Star teams, or finishes in top two in AL or NL Rookie of the Year voting will receive a full year of NPL service time, regardless of how much time they spent on the NPL roster. Any player in the NPL minors who qualifies under this provision will automatically be purchased to the 40-man roster and receive this year of service time during league rollover.
+Any player who is named to the MLB All-Star Game teams, finishes in the top three for AL or NL MVP, the top three for AL or NL Cy Young, or the top two in AL or NL Rookie of the Year voting will receive a full year of NPL service time, regardless of how much time they spent on the NPL roster. Any player in the NPL minors who qualifies under this provision will automatically be purchased to the 40-man roster and receive this year of service time during league rollover.
 
 Players can repeat years of service time if they do not receive enough days in the season to advance to the next year’s class.
 

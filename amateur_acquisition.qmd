@@ -93,6 +93,16 @@ Teams who sign Qualifying Offer players (see @sec-qos) are at risk for losing th
 
 Teams are ordered by reverse standings in the compensation rounds unless there are multiple picks for one team. The second pick of a team will go at the end of the first compensation pick by any and all teams, and so forth.
 
+#### PPI Picks
+
+Prospects who have are not foreign professionals that entered NPL via the major league free agency process, have not exceeded rookie eligibility in real life, and have less than 0.060 NPL service time are eligible for Prospect Promotion Incentive draft picks beginning with the rookie class of 2025.
+
+To be awarded a PPI selection for a prospect's performance, the prospect must accrue a full season of NPL service time in their MLB rookie season from being on the NPL active roster or IL for 172 or more days of service. Years of service accrued by anti-service time manipulation rules (i.e. All-Star or awards voting) do not count towards PPI eligibility.
+
+A team will gain a PPI pick for a prospect meeting this criteria who finishes 1st in Rookie of the Year balloting or in the top 3 of MVP or Cy Young balloting. The prospect must remain on their roster for a full year of service during years beginning with 0, 1, or 2 years of service time to award the pick, except for players who are super 2 eligible. Any trade of a player during or after the year in which they gain PPI eligibility disqualifies the player from PPI status. No eligible prospect may yield more than one PPI selection during his career.
+
+The PPI selections will be award in between the end of the first round and the compensation A round in the following year's Rule 4 draft. If multiple clubs receive a PPI selection in the same draft, the PPI selections will be ordered by the regular standard non-lottery draft order.
+
 #### Trading Draft Picks/Players {#sec-trading-picks}
 
 Draft picks for the upcoming draft may be traded at any time after the present year’s FYPD up until the Roster Freeze period prior to the upcoming FYPD in order to have the acquiring team reflected on the draft sheet. You may not trade future year draft picks---only the upcoming ones can be dealt.
